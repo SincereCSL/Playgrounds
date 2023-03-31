@@ -8,6 +8,10 @@
 
 - [CS自学指南](https://csdiy.wiki)
 
+### Teach Yourself Computer Science
+
+- [Teach Yourself Computer Science](https://teachyourselfcs.com)
+
 ### 计算机网络 (中科大郑烇、杨坚)
 
 - [《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》](https://www.bilibili.com/video/BV1JV411t7ow/?spm_id_from=333.999.0.0&vd_source=b557654c3937a4afce8585b5144b1526)
