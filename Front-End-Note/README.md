@@ -6,8 +6,6 @@
 
 欢迎大家提交对本仓库的改进建议~
 
-![](./images/lovely.jpg)
-
 ## 前端学习
 
 - 1、[前端知识结构](https://github.com/JacksonTian/fks) 
@@ -77,7 +75,7 @@
 
 - 1、[大前端工具集](https://github.com/nieweidong/fetool)
 
-
+![](./images/lovely.jpg)
 
 
 
