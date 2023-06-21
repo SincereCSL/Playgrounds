@@ -1,5 +1,22 @@
 # SincereCSL 创建的 Playgrounds
 
+### 程序员找国外远程工作的资源&网站
+
+-  [remoteok](https://remoteok.com)
+-  [HNHIRING](https://hnhiring.com)
+-  [电鸭社区](https://eleduck.com)
+-  [高端remote工作](https://www.toptal.com)
+-  [weworkremotely](https://weworkremotely.com)
+-  [Vue技术栈 相关远程](https://vuejobs.com)
+-  [JavaScript技术栈](https://javascriptjob.xyz)
+-  [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/2960)
+-  [vercel的谁在招人讨论区](https://github.com/vercel/next.js/discussions/45533)
+-  [欧洲的远程工作](https://justjoin.it)
+-  [创业公司的远程机会](https://wellfound.com/jobs)
+-  [Web3相关的远程工作](https://abetterweb3.notion.site)
+-  [web3相关工作](https://cryptocurrencyjobs.co)
+-  [个人外包项目](https://www.upwork.com)
+
 ### 计算机科学知识
 
 - [Computer Science Study](Computer-Science/README.md)
@@ -13,6 +30,8 @@
 - [Vim学习](Vim/Vim.md)
 
 ### 玩转ChatGPT
+
+- [玩转ChatGPT](ChatGPT/ChatGPT.md)
 
 - [Vim学习](Vim/Vim.md)
 

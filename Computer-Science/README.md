@@ -16,6 +16,14 @@
 
 - [《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》](https://www.bilibili.com/video/BV1JV411t7ow/?spm_id_from=333.999.0.0&vd_source=b557654c3937a4afce8585b5144b1526)
 
+### 计算机网络 (Ivan Velichko)
+
+- [图文并茂的计算机网络基础:Computer Networking Fundamentals](https://iximiuz.com/en/posts/computer-networking-101/)
+
+### Every Programmer Should Know 🤔
+
+[Every Programmer Should Know:包括计算机科学、算法数据结构、分布式、正则、安全、可用性、代码设计、工程哲学等](https://github.com/mtdvio/every-programmer-should-know)
+
 ### 操作系统：设计与实现 (南京大学-蒋炎岩)
 
 - [视频课程--操作系统：设计与实现 2023](https://www.bilibili.com/video/BV1Xx4y1V7JZ/?spm_id_from=333.999.0.0&vd_source=b557654c3937a4afce8585b5144b1526)
