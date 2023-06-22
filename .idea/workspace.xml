@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d650fb8c-f173-4cd4-b4bb-934e0e94bf7d" name="Changes" comment="1、modify ChatGPT README.md">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MP55gwaSc09fpTnzzMe1X5g1yC" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sincerecsl/source/code/Playgrounds/ChatGPT&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ChatGPT" />
+      <recent name="$PROJECT_DIR$/Vim" />
+      <recent name="$PROJECT_DIR$/Computer-Science/images" />
+      <recent name="$PROJECT_DIR$/Front-End-Note/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d650fb8c-f173-4cd4-b4bb-934e0e94bf7d" name="Changes" comment="" />
+      <created>1677656194326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677656194326</updated>
+      <workItem from="1677656195830" duration="13148000" />
+      <workItem from="1678075998137" duration="9921000" />
+      <workItem from="1678198253662" duration="3391000" />
+      <workItem from="1678259681126" duration="1232000" />
+      <workItem from="1678782788545" duration="5000" />
+      <workItem from="1678867326981" duration="1340000" />
+      <workItem from="1679572423078" duration="9902000" />
+      <workItem from="1679644708968" duration="7916000" />
+      <workItem from="1679986785605" duration="1000" />
+      <workItem from="1680073673292" duration="288000" />
+      <workItem from="1680074983197" duration="530000" />
+      <workItem from="1680162672920" duration="397000" />
+      <workItem from="1680231339670" duration="6347000" />
+      <workItem from="1680496223380" duration="639000" />
+      <workItem from="1681977764101" duration="599000" />
+      <workItem from="1683852380114" duration="154000" />
+      <workItem from="1683880411926" duration="158000" />
+      <workItem from="1686306455001" duration="1024000" />
+      <workItem from="1687354788143" duration="5152000" />
+    </task>
+    <task id="LOCAL-00001" summary="1、update README.md">
+      <created>1677657566358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677657566359</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1、update README.md">
+      <created>1677664998455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677664998455</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1、update README.md">
+      <created>1679576409989</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679576409989</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1、modify directory structure README.md">
+      <created>1679577923534</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679577923534</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1、take notes">
+      <created>1679582434418</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679582434418</updated>
+    </task>
+    <task id="LOCAL-00006" summary="notes">
+      <created>1679621133518</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679621133518</updated>
+    </task>
+    <task id="LOCAL-00007" summary="vim notes">
+      <created>1679651624601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679651624601</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add vim notes">
+      <created>1679651874300</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679651874300</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Collation of front-end interview knowledge points">
+      <created>1680252136271</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680252136271</updated>
+    </task>
+    <task id="LOCAL-00010" summary="modify README.md">
+      <created>1680252800401</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680252800401</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1、add ChatGPT README.md">
+      <created>1686307179981</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686307179981</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1、modify ChatGPT README.md">
+      <created>1687362791432</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1687362791432</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1、update README.md" />
+    <MESSAGE value="1、modify directory structure README.md" />
+    <MESSAGE value="1、take notes" />
+    <MESSAGE value="notes" />
+    <MESSAGE value="vim notes" />
+    <MESSAGE value="add vim notes" />
+    <MESSAGE value="Collation of front-end interview knowledge points" />
+    <MESSAGE value="modify README.md" />
+    <MESSAGE value="1、add ChatGPT README.md" />
+    <MESSAGE value="1、modify ChatGPT README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、modify ChatGPT README.md" />
+  </component>
+</project>
