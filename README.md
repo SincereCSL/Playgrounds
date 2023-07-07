@@ -17,6 +17,12 @@
 -  [web3相关工作](https://cryptocurrencyjobs.co)
 -  [个人外包项目](https://www.upwork.com)
 
+### SincereCSL'S Learning English Camp
+
+- [OGDEN's BASIC ENGLISH](http://ogden.basic-english.org) —— 作者发现牛津字典中2.5w单词中90%的概念可以用850个单词来实现，使用简单的英语进行交流
+- [BBC Learning English](https://www.bbc.co.uk/learningenglish/english/course/eiam/)
+- [YouTube BBC Learning English - English In A Minute](https://youtu.be/4Wt7sRxqwyA)
+
 ### 计算机科学知识
 
 - [Computer Science Study](Computer-Science/README.md)

@@ -7,6 +7,7 @@
 ### 自学计算机系统课程资源
 
 - [CS自学指南](https://csdiy.wiki)
+- [哈佛大学免费的在线课程](https://threadreaderapp.com/thread/1675036558041415681.html)
 
 ### Teach Yourself Computer Science
 

@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d650fb8c-f173-4cd4-b4bb-934e0e94bf7d" name="Changes" comment="1、modify ChatGPT README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/ChatGPT.md" beforeDir="false" afterPath="$PROJECT_DIR$/ChatGPT/ChatGPT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Computer-Science/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Computer-Science/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,7 @@
       <workItem from="1683880411926" duration="158000" />
       <workItem from="1686306455001" duration="1024000" />
       <workItem from="1687354788143" duration="5548000" />
-      <workItem from="1688699630444" duration="232000" />
+      <workItem from="1688699630444" duration="2554000" />
     </task>
     <task id="LOCAL-00001" summary="1、update README.md">
       <created>1677657566358</created>
@@ -169,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687362791432</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1、modify ChatGPT README.md">
+      <option name="closed" value="true" />
+      <created>1688699893374</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688699893374</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
