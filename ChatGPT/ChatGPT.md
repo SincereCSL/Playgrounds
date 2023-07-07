@@ -17,11 +17,13 @@
 
 ### ChatGPT 相关的开源库
 
+[ChatGPT 从入门到精通](https://github.com/justjavac/chatgpt)
+
 [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh)
 
 [forefront 套壳ChatGPT](https://chat.forefront.ai/)
 
-[Quora公司出品 Poe](Poe.com)
+[Quora公司出品 Poe](https://poe.com)
 
 [AiChat 国内可以使用](https://c.aichat.la/#/friend)
 
@@ -31,7 +33,7 @@
 
 [吴恩达《LangChain for LLM Application Development ｜基于LangChain的大语言模型应用开发课程》](https://youtu.be/gUcYC0Iuw2g)
 
-[Youtube: ChatGPT Prompt Engineering for Developers](https://youtu.be/hQTEVI87GRg)
+[YouTube: ChatGPT Prompt Engineering for Developers](https://youtu.be/hQTEVI87GRg)
 
 [bilibili: 中文字幕ChatGPT提示工程课程](https://www.bilibili.com/video/BV1gs4y1R7EJ/?share_source=copy_web&vd_source=4e61e7552d45a3b497e560000fb24dbe)
 

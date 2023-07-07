@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d650fb8c-f173-4cd4-b4bb-934e0e94bf7d" name="Changes" comment="1、modify ChatGPT README.md">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatGPT/ChatGPT.md" beforeDir="false" afterPath="$PROJECT_DIR$/ChatGPT/ChatGPT.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,8 @@
       <workItem from="1683852380114" duration="154000" />
       <workItem from="1683880411926" duration="158000" />
       <workItem from="1686306455001" duration="1024000" />
-      <workItem from="1687354788143" duration="5152000" />
+      <workItem from="1687354788143" duration="5548000" />
+      <workItem from="1688699630444" duration="232000" />
     </task>
     <task id="LOCAL-00001" summary="1、update README.md">
       <created>1677657566358</created>
