@@ -8,6 +8,7 @@
 -  [高端remote工作](https://www.toptal.com)
 -  [weworkremotely](https://weworkremotely.com)
 -  [Vue技术栈 相关远程](https://vuejobs.com)
+-  [一亩三分地](https://www.1point3acres.com)
 -  [JavaScript技术栈](https://javascriptjob.xyz)
 -  [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/2960)
 -  [vercel的谁在招人讨论区](https://github.com/vercel/next.js/discussions/45533)

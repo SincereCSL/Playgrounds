@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d650fb8c-f173-4cd4-b4bb-934e0e94bf7d" name="Changes" comment="1、modify Learning English Camp README.md">
+    <list default="true" id="d650fb8c-f173-4cd4-b4bb-934e0e94bf7d" name="Changes" comment="1、modify ChatGPT&#10;README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/ChatGPT.md" beforeDir="false" afterPath="$PROJECT_DIR$/ChatGPT/ChatGPT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,8 @@
       <workItem from="1688699630444" duration="2583000" />
       <workItem from="1688720522605" duration="802000" />
       <workItem from="1688968635493" duration="2286000" />
-      <workItem from="1689125240078" duration="644000" />
+      <workItem from="1689125240078" duration="777000" />
+      <workItem from="1689153346912" duration="950000" />
     </task>
     <task id="LOCAL-00001" summary="1、update README.md">
       <created>1677657566358</created>
@@ -204,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688970175957</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="1、modify ChatGPT&#10;README.md">
+      <option name="closed" value="true" />
+      <created>1689131124688</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1689131124689</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +243,7 @@
     <MESSAGE value="1、modify ChatGPT README.md" />
     <MESSAGE value="1、modify computer science README.md&#10;2、add Learning English Camp README.md" />
     <MESSAGE value="1、modify Learning English Camp README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="1、modify Learning English Camp README.md" />
+    <MESSAGE value="1、modify ChatGPT&#10;README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、modify ChatGPT&#10;README.md" />
   </component>
 </project>
