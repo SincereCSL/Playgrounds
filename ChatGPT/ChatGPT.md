@@ -44,6 +44,10 @@
 
 [Youtube 视频](https://youtu.be/YrBJiy-V8MY)
 
+### 康奈尔大学 《A Survey of Large Language Models》介绍 LLM 领域的一个综述
+
+[A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+
 
 
 
