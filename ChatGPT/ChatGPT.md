@@ -27,6 +27,12 @@
 
 [AiChat 国内可以使用](https://c.aichat.la/#/friend)
 
+###  Meta AI Llama 2
+
+[Introducing Llama 2](https://ai.meta.com/llama/?utm_source=twitter&utm_medium=organic_social&utm_campaign=llama2&utm_content=video)
+
+[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.2365-6/10000000_662098952474184_2584067087619170692_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=qhK-ahCbkBMAX-qEWmV&_nc_ht=scontent-nrt1-1.xx&oh=00_AfDKue2tZZUVNnzD5Nwv_k-GswWsZeS0yUHpgtEaSdJGVA&oe=64BE66FF)
+
 ### 吴恩达 Prompt engineering 关于 LLM 提示工程的课程
 
 [课程官网-deeplearning.ai](https://www.deeplearning.ai)
