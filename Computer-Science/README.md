@@ -8,6 +8,7 @@
 
 - [CS自学指南](https://csdiy.wiki)
 - [哈佛大学免费的在线课程](https://threadreaderapp.com/thread/1675036558041415681.html)
+- [小林 x 图解计算机基础](https://xiaolincoding.com)
 
 ### Teach Yourself Computer Science
 
