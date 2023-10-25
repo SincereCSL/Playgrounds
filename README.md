@@ -7,10 +7,14 @@
 -  [frontendremotejobs](https://frontendremotejobs.com)
 -  [电鸭社区](https://eleduck.com)
 -  [高端remote工作](https://www.toptal.com)
+-  [Remotive](https://remotive.com)
+-  [日本IT相关岗位](https://japan-dev.com)
 -  [weworkremotely](https://weworkremotely.com)
+-  [Remote Handbook](https://remotecom.notion.site/a3439c6ccaac4d5f8c7515c357345c11?v=8bb7f9be662f45da87ef4ab14a42be37)
 -  [Vue技术栈 相关远程](https://vuejobs.com)
 -  [一亩三分地](https://www.1point3acres.com)
 -  [JavaScript技术栈](https://javascriptjob.xyz)
+-  [Freelancer 号称是:"全球最大的自由职业和众包市场"](https://www.freelancer.cn/job)
 -  [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/3529)1
 -  [vercel的谁在招人讨论区](https://github.com/vercel/next.js/discussions/45533)
 -  [欧洲的远程工作](https://justjoin.it)
@@ -18,6 +22,7 @@
 -  [Web3相关的远程工作](https://abetterweb3.notion.site)
 -  [web3相关工作](https://cryptocurrencyjobs.co)
 -  [个人外包项目](https://www.upwork.com)
+-  [github远程文化介绍（全员远程的上市公司）](https://about.gitlab.com/company/all-remote/)
 
 ### SincereCSL'S Learning English Camp
 
