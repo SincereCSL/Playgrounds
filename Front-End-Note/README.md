@@ -8,10 +8,12 @@
 
 ## 前端学习
 
-- 1、[前端知识结构](https://github.com/JacksonTian/fks) 
+- 1、[前端知识结构](https://github.com/JacksonTian/fks)
+- 1、[Web 界面开发指南](https://interfaces.rauno.me/)
 - 2、[真全栈，全免费项目，学完直接上一个台阶](https://github.com/KieSun/all-of-frontend) 
 - 3、[我的职业是前端工程师](https://github.com/phodal/fe) 
-- 4、[前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) 
+- 4、[前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+- 5、[Web Development for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners)
 
 ## 前端面试
 
@@ -56,8 +58,10 @@
 
 ## 前端算法
 
-- 1、[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
-- 2、[前端啃算法](https://github.com/course-dasheng/fe-algorithm)
+- 1、[The Algorithms](https://the-algorithms.com/zh_Hans)
+- 2、[Hello 算法](https://www.hello-algo.com)
+- 3、[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
+- 4、[前端啃算法](https://github.com/course-dasheng/fe-algorithm)
 
 ## 前端工具
 

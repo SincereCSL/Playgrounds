@@ -30,6 +30,7 @@
 - [BBC Learning English](https://www.bbc.co.uk/learningenglish/english/course/eiam/)
 - [YouTube BBC Learning English - English In A Minute](https://youtu.be/4Wt7sRxqwyA)
 - 英语学习浏览器插件：
+- [Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm) 一款可以加载双语字幕的插件
 - [Relingo](https://cn.relingo.net/zh/index) 可以将自己不懂生词和难词，自动标示和翻译
 - [Trancy](https://www.trancy.org/zh-cn) 支持YouTube、NetFlix双语字幕、字幕阅读模式、划词翻译
 - 英语口语学习软件：
