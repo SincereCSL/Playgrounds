@@ -22,7 +22,8 @@
 -  [Web3相关的远程工作](https://abetterweb3.notion.site)
 -  [web3相关工作](https://cryptocurrencyjobs.co)
 -  [个人外包项目](https://www.upwork.com)
--  [github远程文化介绍（全员远程的上市公司）](https://about.gitlab.com/company/all-remote/)
+-  [github远程文化介绍（全员远程的上市公司）](https://about.gitlab.com/company/all-remote)
+-  [RustJobs](https://rustjobs.dev)
 
 ### SincereCSL'S Learning English Camp
 
