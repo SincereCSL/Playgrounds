@@ -15,7 +15,7 @@
 -  [一亩三分地](https://www.1point3acres.com)
 -  [JavaScript技术栈](https://javascriptjob.xyz)
 -  [Freelancer 号称是:"全球最大的自由职业和众包市场"](https://www.freelancer.cn/job)
--  [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/3529)
+-  [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/3599)
 -  [vercel的谁在招人讨论区](https://github.com/vercel/next.js/discussions/45533)
 -  [欧洲的远程工作](https://justjoin.it)
 -  [创业公司的远程机会](https://wellfound.com/jobs)
