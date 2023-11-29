@@ -14,6 +14,37 @@
 - 3、[我的职业是前端工程师](https://github.com/phodal/fe) 
 - 4、[前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 - 5、[Web Development for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners)
+- 
+#### JavaScript 学习
+-[clean-code-javascript 适合前端初学者](https://github.com/ryanmcdermott/clean-code-javascript)
+-[clean-code-javascript 适合前端初学者](https://github.com/ryanmcdermott/clean-code-javascript)
+
+#### TypeScript 学习
+
+- [TypeScript官网](https://www.typescriptlang.org)
+- [TypeScript 教程 ——阮一峰](https://wangdoc.com/typescript)
+
+#### 扩展学习 热门技术
+
+##### WebAssembly
+- [WebAssembly 官网](https://webassembly.org)
+- [WebAssembly MDN](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
+
+##### WebGL/WebGPU
+
+- [WebGL 官网](https://get.webgl.org)
+- [WebGL 理论基础](https://webglfundamentals.org/webgl/lessons/zh_cn)
+- [Three.js 官网](https://threejs.org)
+- [Three.js Tutorial](https://www.tutorialspoint.com/threejs)
+- [WebGPU 官网](https://www.w3.org/TR/webgpu)
+- [WebGPU MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
+
+##### WebRTC
+
+-[WebRTC 官网](https://webrtc.org)
+-[WebRTC MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+-[imooc 5G时代必备音视频WebRTC实时互动直播技术入门与实战](https://coding.imooc.com/class/329.html)
+-[imooc WebRTC源码级深度解析，进阶大厂高级音视频开发者](https://coding.imooc.com/class/532.html)
 
 ## 前端面试
 

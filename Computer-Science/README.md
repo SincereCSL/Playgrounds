@@ -8,6 +8,10 @@
 
 - [CS自学指南](https://csdiy.wiki)
 - [哈佛大学免费的在线课程](https://threadreaderapp.com/thread/1675036558041415681.html)
+- [MIT的 Introduction to Deep Learning](http://introtodeeplearning.com/)
+- [哈佛大学的 CS 50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+- [斯坦福 cs25](https://web.stanford.edu/class/cs25)
+- [Edx.org上的各大名校的公开课程](https://www.edx.org/schools-partners?linked_from=sitenav)
 - [小林 x 图解计算机基础](https://xiaolincoding.com)
 
 ### Teach Yourself Computer Science
@@ -33,6 +37,10 @@
 - [课程主页（含讲义）](https://jyywiki.cn/OS/2023)
 
 - [视频课程--操作系统：设计与实现 2022](https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm_id_from=333.999.0.0&vd_source=b557654c3937a4afce8585b5144b1526)
+
+### 深入架构原理与实践
+
+- [深入架构原理与实践](https://www.thebyte.com.cn)
 
 ## 关于仓库
 

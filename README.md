@@ -1,6 +1,6 @@
 # SincereCSL 创建的 Playgrounds
 
-### 程序员找国外远程工作的资源&网站
+### 程序员找国外远程工作的资源网站
 
 -  [remoteok](https://remoteok.com)
 -  [HNHIRING](https://hnhiring.com)
@@ -41,7 +41,6 @@
 - [duolingo](https://www.duolingo.cn/)
 -[Cambly-和母语外教在线练习口语](https://www.cambly.com/english?lang=zh_CN)
 
-
 ### 计算机科学知识
 
 - [Computer Science Study](Computer-Science/README.md)
@@ -59,6 +58,9 @@
 ### 玩转ChatGPT
 
 - [玩转ChatGPT](ChatGPT/ChatGPT.md)
+
+### 写作知识
+- [Technical Writing Courses: Google 技术文档的课程](https://developers.google.com/tech-writing)
 
 ## 关于仓库
 
