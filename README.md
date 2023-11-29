@@ -30,12 +30,17 @@
 - [OGDEN's BASIC ENGLISH](http://ogden.basic-english.org) —— 作者发现牛津字典中2.5w单词中90%的概念可以用850个单词来实现，使用简单的英语进行交流
 - [BBC Learning English](https://www.bbc.co.uk/learningenglish/english/course/eiam/)
 - [YouTube BBC Learning English - English In A Minute](https://youtu.be/4Wt7sRxqwyA)
+- [人人都能用英语-李笑来](https://github.com/xiaolai/everyone-can-use-english)
+- [专为程序员编写的英语学习指南](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 - 英语学习浏览器插件：
 - [Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm) 一款可以加载双语字幕的插件
 - [Relingo](https://cn.relingo.net/zh/index) 可以将自己不懂生词和难词，自动标示和翻译
 - [Trancy](https://www.trancy.org/zh-cn) 支持YouTube、NetFlix双语字幕、字幕阅读模式、划词翻译
 - 英语口语学习软件：
 - [Call Annie](https://callannie.ai) 目前支持iOS美区Apple ID下载和web网页版
+- [duolingo](https://www.duolingo.cn/)
+-[Cambly-和母语外教在线练习口语](https://www.cambly.com/english?lang=zh_CN)
+
 
 ### 计算机科学知识
 
