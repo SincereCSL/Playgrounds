@@ -62,6 +62,96 @@
 ### 写作知识
 - [Technical Writing Courses: Google 技术文档的课程](https://developers.google.com/tech-writing)
 
+### Indie Hackers (独立开发者)
+- #### 汇总一下国内外活跃的独立开发者，加油喽！！！
+- [Evan You: Creator of the JavaScript framework Vue.js and the frontend build tool Vite](https://evanyou.me)
+    - [Vue.js](https://vuejs.org)
+    - [Vite](https://vitejs.dev)
+  
+- [Hawstein: AlgoCasts](https://hawstein.com)
+    - [AlgoCasts：一个算法教学视频网站](https://algocasts.io)
+  
+- [Baye aka 威力狈： 熊猫吃短信、ServerCat、后续、DAMA 的作者、OpenCat](https://twitter.com/waylybaye)
+    - [熊猫吃短信：过滤垃圾短信](https://baye.tech)
+    - [ServerCat：适用于 iOS/macOS 的服务器状态、Docker 管理和 SSH 客户端](https://servercat.app)
+    - [后续：关注热点新闻后续](https://houxu.app) (注释：后续 app目前下架了)
+    - [DAMA：一款注重隐私的图像编辑应用程序，可以智能分析图像中的文本并自动隐藏私人信息](https://apps.apple.com/us/app/dama-smart-redact/id1534690075)
+    - [OpenCat：原生 AI 聊天客户端，提供更流畅、更快速的聊天体验](https://opencat.app)
+  
+- [levelsio:全球 indie hacker 的偶像级人物](https://levels.io/blog)
+    - [PhotoAI: ](https://photoai.com)
+    - [InteriorAI: ](https://interiorai.com)
+    - [RemoteOK](https://remoteok.com)
+    - [NomadList](https://nomadlist.com)
+- [skoowoo](https://github.com/skoowoo)
+    - [硬地骇客](https://hardhacker.com)
+    - [Podwise](https://podwise.xyz)
+
+- [SaitoWu](https://twitter.com/SaitoWu)
+    - [硬地骇客](https://hardhacker.com)
+    - [Podwise](https://podwise.xyz)
+    - [GitLab Alumni](https://about.gitlab.com/community/core-team/alumni)
+
+- [Kevin](https://github.com/sponsors/egoist)
+    - [tsup:The toolkit to bundle your TypeScript libraries](https://github.com/egoist/tsup)
+    - [esbuild-register:Load TypeScript files on the fly in node](https://github.com/egoist/esbuild-register)
+    - [rollup-plugin-esbuild:Rollup plugin to transpile TypeScript fast](https://github.com/egoist/rollup-plugin-esbuild)
+    - [Dropcode:Simple and light-weight code snippet manager for macOS and Windows](https://github.com/egoist/dropcode)
+    - [tooling.one:A collection of useful tools for developers](https://toolcat.app)
+  
+- [Anthony Fu：全职从事开源项目](https://antfu.me)
+    - [Vitest](https://vitest.dev)
+    - [Slidev](https://sli.dev)
+    - [VueUse](https://vueuse.org)
+    - [UnoCSS](https://unocss.dev)
+    - [Elk](https://elk.zone)
+    - [Type Challenges](https://tsch.js.org)
+  
+- [图拉鼎：](https://imtx.me)
+    - [Ubuntu Tweak](http://ubuntu-tweak.com)
+    - [Manico](https://manico.im)
+    - [One Switch](https://fireball.studio/oneswitch)
+    - [Moment](https://fireball.studio/moment)
+    - [PasteNow](https://apps.apple.com/cn/app/pastenow-%E5%89%AA%E8%B4%B4%E6%9D%BF%E5%B7%A5%E5%85%B7/id1552536109?mt=12)
+    - [效率控](https://apps.apple.com/cn/app/%E6%95%88%E7%8E%87%E6%8E%A7-%E8%81%9A%E5%90%88%E4%BC%97%E5%A4%9A%E5%AE%9E%E7%94%A8%E5%B0%8F%E5%B7%A5%E5%85%B7/id1435159279)
+    - [奇点 for 微博](https://apps.apple.com/app/id947792507)
+   
+- [Adam Pietrasiak]()
+    - [Screen Studio](https://www.screen.studio)
+
+- [Luo说不啰嗦](https://luosays.com)
+    - [jingle Bio](https://jingle.bio)
+    - [Early Bird](https://earlybird.im)
+    - [HeyForm](https://heyform.net)
+    - [TinySnap](https://tinysnap.app)
+    - [千人出海社区](https://chuhaiqu.club)
+  
+- [Tony Dinh](https://twitter.com/tdinh_me)
+    - [TypingMind](https://www.typingmind.com)
+    - [Xnapper](https://xnapper.com)
+    - [DevUtils](https://devutils.com)
+    - [BlackMagic.so](https://blackmagic.so)
+  
+- [花果山大圣:独立开发者 && 讲师](https://shengxinjing.cn)
+    - [玩转Vue3文字专栏@极客时间](https://time.geekbang.org/column/intro/100094401?code=r78oEOqzZRyXf4pq6sDsvzIM1AfVbKeV2aG7LztQxNo%253D&tab=catalog)
+    - [前端啃算法](https://github.com/course-dasheng/fe-algorithm)
+    - [Vue+ Typescript 企业实战+组件库课](https://shengxinjing.cn/vue)
+    - [React+ Typescript 企业实战+组件库课](https://shengxinjing.cn/react)
+    - [前端源码漫游记](https://shengxinjing.cn/source)
+  
+- [Adam Wathan: tailwindcss 创始人](https://github.com/adamwathan)
+    - [tailwindcss](https://tailwindcss.com)
+  
+- [Yucheng L](https://twitter.com/lyc_zh)
+    - [出海去](https://chuhaiqu.club)
+  
+- [Takuy](https://www.craftz.dog)
+    - [InkDrop](https://www.inkdrop.app)
+
+   
+   
+
+
 ## 关于仓库
 
 这个仓库是笔者用来记录自己学习相关编程知识，自己整理的一些的学习资料。皮卡丘：冲呀！！！

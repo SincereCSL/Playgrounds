@@ -13,6 +13,21 @@
 - [斯坦福 cs25](https://web.stanford.edu/class/cs25)
 - [Edx.org上的各大名校的公开课程](https://www.edx.org/schools-partners?linked_from=sitenav)
 - [小林 x 图解计算机基础](https://xiaolincoding.com)
+ - #### 斯坦福大学提供的免费认证课程:
+
+   - [Designing Your Career 规划你的职业生涯](https://online.stanford.edu/courses/tds-y0003-designing-your-career)
+   - [Computer Science 101 计算机科学101入门](https://online.stanford.edu/courses/soe-ycscs101-computer-science-101)
+   - [Algorithms: Design and Analysis, Part 1 算法：设计与分析，第 1 部分](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
+   - [Algorithms: Design and Analysis, Part 2 算法：设计与分析，第 2 部分](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
+   - [Computer and Network Security 计算机和网络安全](https://online.stanford.edu/courses/cs155-computer-and-network-security)
+   - [Computer Organization and Systems 计算机组成与系统](https://online.stanford.edu/courses/cs107-computer-organization-and-systems)
+   - [Databases: Advanced Topics in SQL 数据库：SQL的高级主题](https://online.stanford.edu/courses/soe-ydatabases0001-databases-advanced-topics-sql)
+   - [Advanced Cybersecurity Program 高级网络安全课程](https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview)
+   - [Machine Learning Specialization 机器学习专项课程](https://online.stanford.edu/courses/soe-ymls-machine-learning-specialization)
+   - [Introduction to Internet of Things 物联网简介](https://online.stanford.edu/courses/xee100-introduction-internet-things)
+   - [Introduction to Game Theory 博弈论导论](https://online.stanford.edu/courses/mse232-introduction-game-theory)
+   - [Introduction to Cryptography 密码学入门](https://online.stanford.edu/courses/cs255-introduction-cryptography)
+   - [Compilers 编译器入门课程](https://online.stanford.edu/courses/cs143-compilers)
 
 ### Teach Yourself Computer Science
 
