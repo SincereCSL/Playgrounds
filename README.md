@@ -25,21 +25,63 @@
 -  [github远程文化介绍（全员远程的上市公司）](https://about.gitlab.com/company/all-remote)
 -  [RustJobs](https://rustjobs.dev)
 
-### SincereCSL'S Learning English Camp
+### SincereCSL Learning English Camp
+
+#### Lexile 蓝思(蓝思值在衡量一本书的词汇难度，越高越难)
+- [Lexile: 蓝思](https://en.wikipedia.org/wiki/Lexile)
+- [蓝思值图书查询](https://hub.lexile.com/find-a-book/search)
+   - [The Little Prince:小王子 蓝思值为：710](https://hub.lexile.com/find-a-book/book-details/9780156012195) 
+   - [Animal Farm:动物庄园 蓝思值为：940](https://hub.lexile.com/find-a-book/book-details/9781911091110) 
+   - [Harry Potter:哈利波特原本7步 蓝思值为：500～950](https://hub.lexile.com/find-a-book/book-details/9781338099133) 
+   - [Educated:你当像鸟飞往你的山 蓝思值为：870](https://hub.lexile.com/find-a-book/book-details/9780399590504) 
+   - [Elon Musk:硅谷钢铁侠 蓝思值为：1200](https://hub.lexile.com/find-a-book/book-details/9780062301239) 
 
 - [OGDEN's BASIC ENGLISH](http://ogden.basic-english.org) —— 作者发现牛津字典中2.5w单词中90%的概念可以用850个单词来实现，使用简单的英语进行交流
-- [BBC Learning English](https://www.bbc.co.uk/learningenglish/english/course/eiam/)
+- [BBC Learning English](https://www.bbc.co.uk/learningenglish/english/course/eiam)
 - [YouTube BBC Learning English - English In A Minute](https://youtu.be/4Wt7sRxqwyA)
+- [英语自学](https://bewaters.me/limxtop/2021/08/18/English-introduction)
+- [英语进阶指南](https://babyyoung.gitbook.io/english-level-up-tips)
 - [人人都能用英语-李笑来](https://github.com/xiaolai/everyone-can-use-english)
 - [专为程序员编写的英语学习指南](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
-- 英语学习浏览器插件：
+- [学习英语的新闻网站](https://www.vox.com)
+
+#### Youtube英语学习Channel：
+- [English with Lucy (British)](https://www.youtube.com/@EnglishwithLucy)
+- [mmmEnglish (Australian)](https://www.youtube.com/@mmmEnglish_Emma)
+- [Learn English with Emma(engVid) (Canadian)](https://www.youtube.com/@engvidEmma)
+- [BBC Learning English (British, of course)](https://www.youtube.com/@bbclearningenglish)
+- [Oxford Online English](https://www.youtube.com/@Oxfordonlineenglish1)
+- [Learn English with TV series (American)](https://www.youtube.com/@LearnEnglishWithTVSeries)
+- [Accent's Way English with Hadar (American)](https://www.youtube.com/@hadar.shemesh)
+- [Learn English with Papa Teach Me (British)](https://www.youtube.com/@papateachme)
+- [English Like A Native (British)](https://www.youtube.com/@EnglishLikeANative)
+- [Go natural English (American)](https://www.youtube.com/@GoNaturalEnglish)
+- [Instant English](https://www.youtube.com/@InstantEnglishUK)
+- [English with Jennifer](https://www.youtube.com/@Englishwithjennifer)
+- [LearnAmericanEnglishOnline](https://www.youtube.com/@Learnamericanenglishonline)
+- [EnglishSpeakingSuccess](https://www.youtube.com/@EnglishSpeakingSuccess)
+- [Learn English with EnglishClass101.com](https://www.youtube.com/@EnglishClass101)
+- [E2 IELTS](https://www.youtube.com/@E2IELTS)
+- [English Addict with Mr Duncan](https://www.youtube.com/@EnglishAddict)
+- [Rachel's English](https://www.youtube.com/@rachelsenglish)
+- [Kendra's Language School](https://www.youtube.com/@KendrasLanguage)
+- [Speak English With Vanessa](https://www.youtube.com/@SpeakEnglishWithVanessa)
+- [EnglishAnyone](https://www.youtube.com/@EnglishAnyone)
+- [阿滴英文](https://www.youtube.com/@rayduenglish)
+- [IELTS buddy](https://www.youtube.com/@IELTSbuddyTraining)
+- [跟洋妞学英语 Jackie](https://www.youtube.com/@JackiesEnglish)
+
+#### 英语学习浏览器插件：
+
 - [Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm) 一款可以加载双语字幕的插件
 - [Relingo](https://cn.relingo.net/zh/index) 可以将自己不懂生词和难词，自动标示和翻译
 - [Trancy](https://www.trancy.org/zh-cn) 支持YouTube、NetFlix双语字幕、字幕阅读模式、划词翻译
-- 英语口语学习软件：
+
+#### 英语口语学习软件：
+
 - [Call Annie](https://callannie.ai) 目前支持iOS美区Apple ID下载和web网页版
 - [duolingo](https://www.duolingo.cn/)
--[Cambly-和母语外教在线练习口语](https://www.cambly.com/english?lang=zh_CN)
+- [Cambly-和母语外教在线练习口语](https://www.cambly.com/english?lang=zh_CN)
 
 ### 计算机科学知识
 
