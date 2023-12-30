@@ -96,6 +96,9 @@
 
 - [Database学习](Database/Database.md)
 
+### TypeScript 相关知识
+
+- [TypeScript学习](TypeScript/TypeScript.md)
 
 ### Vim 相关知识
 
