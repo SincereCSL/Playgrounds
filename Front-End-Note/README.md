@@ -29,6 +29,29 @@
 - [TypeScript官网](https://www.typescriptlang.org)
 - [TypeScript 教程 ——阮一峰](https://wangdoc.com/typescript)
 
+#### CSS 相关
+
+- 很酷炫的 css 动画 js/css实现
+- 1、[Animate.css](https://animate.style)
+- 2、[Magic.css](https://www.minimamente.com/project/magic)
+- 3、[React Spring](https://www.react-spring.dev/)
+- 4、[Greensock](https://gsap.com)
+- 5、[Velocity.js](http://velocityjs.org)
+- 6、[Anime.js](https://animejs.com/)
+
+
+
+#### 前端算法
+
+- 1、[The Algorithms](https://the-algorithms.com/zh_Hans)
+- 2、[Hello 算法](https://www.hello-algo.com)
+- 3、[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
+- 4、[前端啃算法](https://github.com/course-dasheng/fe-algorithm)
+
+#### 前端工具
+
+- 1、[大前端工具集](https://github.com/nieweidong/fetool)
+
 #### 扩展学习 热门技术
 
 ##### WebAssembly
@@ -92,17 +115,6 @@
 
 - 16、[Blog](https://github.com/ljianshu/Blog)
 
-
-## 前端算法
-
-- 1、[The Algorithms](https://the-algorithms.com/zh_Hans)
-- 2、[Hello 算法](https://www.hello-algo.com)
-- 3、[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
-- 4、[前端啃算法](https://github.com/course-dasheng/fe-algorithm)
-
-## 前端工具
-
-- 1、[大前端工具集](https://github.com/nieweidong/fetool)
 
 ![](./images/lovely.jpg)
 
