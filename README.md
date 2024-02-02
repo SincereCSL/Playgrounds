@@ -111,6 +111,13 @@
 ### 写作知识
 - [Technical Writing Courses: Google 技术文档的课程](https://developers.google.com/tech-writing)
 
+
+### 工具
+
+- 如何阅读Medium:
+- [Medium Parser Chrome 插件](https://chromewebstore.google.com/detail/medium-parser/egejbknaophaadmhijkepokfchkbnelc)
+- [https://readmedium.com](https://readmedium.com)
+
 ### Indie Hackers (独立开发者)
 - #### 汇总一下国内外活跃的独立开发者，加油喽！！！
 - [Evan You: Creator of the JavaScript framework Vue.js and the frontend build tool Vite](https://evanyou.me)
