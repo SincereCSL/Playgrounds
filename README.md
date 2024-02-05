@@ -92,6 +92,17 @@
 - [SincereCSL Interview](Front-End-Note/Interview.md)
 - [前端知识笔记](Front-End-Note/README.md)
 
+### 前端开源项目明星榜
+
+- [2023 javascript 前端开源项目明星榜](https://risingstars.js.org/2023/en)
+- [2022 javascript 前端开源项目明星榜](https://risingstars.js.org/2022/en)
+- [2021 javascript 前端开源项目明星榜](https://risingstars.js.org/2021/en)
+- [2020 javascript 前端开源项目明星榜](https://risingstars.js.org/2020/en)
+- [2019 javascript 前端开源项目明星榜](https://risingstars.js.org/2019/en)
+- [2018 javascript 前端开源项目明星榜](https://risingstars.js.org/2018/en)
+- [2017 javascript 前端开源项目明星榜](https://risingstars.js.org/2017/en)
+- [2016 javascript 前端开源项目明星榜](https://risingstars.js.org/2016/en)
+
 ### Database 相关知识
 
 - [Database学习](Database/Database.md)
