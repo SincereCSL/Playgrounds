@@ -92,6 +92,28 @@
 - [SincereCSL Interview](Front-End-Note/Interview.md)
 - [前端知识笔记](Front-End-Note/README.md)
 
+#### 通过 YouTube 学习 React、Next.js、Vue.js、Vite 练习英语  
+React、Next.js 相关：
+- [Vercel](https://www.youtube.com/@VercelHQ)
+    - [10 common mistakes with the Next.js App Router](https://www.youtube.com/watch?v=RBM03RihZVs)
+- [Lee Robinson](https://www.youtube.com/@leerob)
+    - [Learn Next.js](https://www.youtube.com/watch?v=uQeidE2LA1s&list=PL6bwFJ82M6FXjyBTVi6WSCWin8q_g_8RR)
+
+Vue.js相关：
+
+Evan You演讲相关视频：
+- [VueConfToronto](https://www.youtube.com/@VueConfToronto)
+    - [VueConf Toronto 2018:Vue 3.0 Updates - Evan You](https://www.youtube.com/watch?v=XkOMOeEAFQI&list=PLRxahvbQSa_vF8P7sWyN-7aac0YPKvlWP)
+    - [VueConf Toronto 2019:Design Principles of Vue 3.0 by Evan You](https://www.youtube.com/watch?v=WLpLYhnGqPA&list=PLRxahvbQSa_uDvlWBFAsaFdVx1DyXkZ6S)
+    - [VueConf Toronto 2020:Vite and VitePress - Evan You](https://www.youtube.com/watch?v=xXrhg26VCSc&list=PLRxahvbQSa_tF0RDVm3e9F3VbiH15zdbX)
+    - [VueConf Toronto 2021:The New Vue by Evan You](https://www.youtube.com/watch?v=2KBHvaAWJOA&list=PLRxahvbQSa_v9nKUI_UOiRPG7IOnq7b7Y)
+    - [VueConf Toronto 2022:What's next for Vue? Evan You explains...](https://www.youtube.com/watch?v=3QPp_DlcZpM&list=PLJNLwTPak6dhvOmKMC80lpYIo463BhC4K)
+    - [VueConf Toronto 2023:Vue and Vite Status Update - Evan You](https://www.youtube.com/watch?v=Hz_zCR28oKE&list=PLRxahvbQSa_sriWdMsK2SOAjn9ZHCmQy7)
+- [Vue Mastery](https://www.youtube.com/@VueMastery)
+
+Vite相关：
+- [ViteConf](https://www.youtube.com/@viteconf)
+
 ### 前端开源项目明星榜
 
 - [2023 javascript 前端开源项目明星榜](https://risingstars.js.org/2023/en)
