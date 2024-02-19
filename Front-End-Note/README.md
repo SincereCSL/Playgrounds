@@ -67,6 +67,7 @@
 - [Three.js Tutorial](https://www.tutorialspoint.com/threejs)
 - [WebGPU 官网](https://www.w3.org/TR/webgpu)
 - [WebGPU MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
+- [3D Force-Directed Graph](https://vasturiano.github.io/3d-force-graph)
 
 ##### WebRTC
 
