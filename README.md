@@ -111,6 +111,7 @@
 
 - [SincereCSL Interview](Front-End-Note/Interview.md)
 - [前端知识笔记](Front-End-Note/README.md)
+- [技术文章摘抄](https://learn.lianglianglee.com)
 
 #### 通过 YouTube 学习 React、Next.js、Vue.js、Vite 练习英语  
 React、Next.js 相关：
