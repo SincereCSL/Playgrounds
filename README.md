@@ -1,10 +1,11 @@
 # SincereCSL 创建的 Playgrounds
 
 ### 程序员找国外远程工作的资源网站
-
 -  [remoteok](https://remoteok.com)
 -  [HNHIRING](https://hnhiring.com)
 -  [frontendremotejobs](https://frontendremotejobs.com)
+-  [flexjobs](https://www.flexjobs.com)
+-  [remote](https://remote.co)
 -  [电鸭社区](https://eleduck.com)
 -  [高端remote工作](https://www.toptal.com)
 -  [Remotive](https://remotive.com)
@@ -15,16 +16,35 @@
 -  [一亩三分地](https://www.1point3acres.com)
 -  [JavaScript技术栈](https://javascriptjob.xyz)
 -  [Freelancer 号称是:"全球最大的自由职业和众包市场"](https://www.freelancer.cn/job)
--  [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/3599)
 -  [vercel的谁在招人讨论区](https://github.com/vercel/next.js/discussions/45533)
 -  [欧洲的远程工作](https://justjoin.it)
 -  [创业公司的远程机会](https://wellfound.com/jobs)
+-  [润拉拉:移民找工作、远程工作](https://runlala.com)
 -  [Web3相关的远程工作](https://abetterweb3.notion.site)
 -  [web3相关工作](https://cryptocurrencyjobs.co)
 -  [个人外包项目](https://www.upwork.com)
 -  [github远程文化介绍（全员远程的上市公司）](https://about.gitlab.com/company/all-remote)
 -  [RustJobs](https://rustjobs.dev)
+-  [GitLab 公司远程相关岗位](https://about.gitlab.com/jobs/all-jobs)
+-  [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/3599)
 
+#### Reddit上有个remotework版块 分享有关远程或分布式团队工作的新闻、经验、提示、技巧和软件的团队、公司和个人提供的地方。感兴趣的小伙伴们可以关注下。
+- [Reddit remotework 版块](https://www.reddit.com/r/remotework)
+- [Best online resources for finding remote work?](https://www.reddit.com/r/remotework/comments/11e0r64/best_online_resources_for_finding_remote_work)
+
+##### 其他
+-  [2024 年在线寻找远程工作的 25+ 个最佳网站](https://skillcrush.com/blog/sites-finding-remote-work)
+-  [2024 年 65 个最佳远程工作网站](https://www.ryrob.com/remote-jobs-websites)
+
+### 远程公司、工作手册
+
+- [GitLab](https://about.gitlab.com/company)
+    - [GitLab 远程文化手册](https://about.gitlab.com/company/all-remote)
+    - [GitLab 公司GitHub的工作文档](https://handbook.gitlab.com/handbook/company/culture/all-remote/handbook-first)
+- [Basecamp 原 37signals](https://basecamp.com/about)
+    - [Basecamp 内部交流指南](https://37signals.com/how-we-communicate)
+    - [Basecamp 出版的书籍](https://basecamp.com/books)
+      - [REWORK:重来](https://basecamp.com/books/rework)
 ### SincereCSL Learning English Camp
 
 #### Lexile 蓝思(蓝思值在衡量一本书的词汇难度，越高越难)
