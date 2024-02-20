@@ -23,6 +23,8 @@
 
 [forefront 套壳ChatGPT](https://chat.forefront.ai/)
 
+[字节Coze](https://www.coze.com)
+
 [Quora公司出品 Poe](https://poe.com)
 
 [AiChat 国内可以使用](https://c.aichat.la/#/friend)
