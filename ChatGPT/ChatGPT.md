@@ -31,13 +31,16 @@
 
 [GPTs Hunter 目前网站上收录了 400个GPTs](https://www.gptshunter.com)
 
+### OpenAI Sora 相关资料
 
-###  Google Bard
-[Introducing Google Bard](https://en.wikipedia.org/wiki/Bard_%28chatbot%29)
+[OpenAI Sora](https://openai.com/sora)
 
-[Google Bard](https://bard.google.com/chat)
 
-###  Google Gemini
+### Google Bard 正式更名为 Google Gemini
+[Introducing Google Bard](https://en.wikipedia.org/wiki/Gemini_(chatbot))
+
+[Google Gemini](https://gemini.google.com/app)
+
 [Gemini Language Model](https://en.wikipedia.org/wiki/Gemini_%28language_model%29)
 
 [Gemini Introduction](https://deepmind.google/technologies/gemini/#introduction)
