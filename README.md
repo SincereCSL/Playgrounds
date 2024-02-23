@@ -28,6 +28,9 @@
 -  [GitLab 公司远程相关岗位](https://about.gitlab.com/jobs/all-jobs)
 -  [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/3599)
 
+#### 程序员海外工作/英文面试手册
+- [Programmers-Overseas-Job-Interview-Handbook:程序员海外工作/英文面试手册](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook)
+
 #### Reddit上有个remotework版块 分享有关远程或分布式团队工作的新闻、经验、提示、技巧和软件的团队、公司和个人提供的地方。感兴趣的小伙伴们可以关注下。
 - [Reddit remotework 版块](https://www.reddit.com/r/remotework)
 - [Best online resources for finding remote work?](https://www.reddit.com/r/remotework/comments/11e0r64/best_online_resources_for_finding_remote_work)
