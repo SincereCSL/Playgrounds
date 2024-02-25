@@ -20,13 +20,14 @@
 -  [欧洲的远程工作](https://justjoin.it)
 -  [创业公司的远程机会](https://wellfound.com/jobs)
 -  [润拉拉:移民找工作、远程工作](https://runlala.com)
--  [Web3相关的远程工作](https://abetterweb3.notion.site)
--  [web3相关工作](https://cryptocurrencyjobs.co)
 -  [个人外包项目](https://www.upwork.com)
 -  [github远程文化介绍（全员远程的上市公司）](https://about.gitlab.com/company/all-remote)
 -  [RustJobs](https://rustjobs.dev)
 -  [GitLab 公司远程相关岗位](https://about.gitlab.com/jobs/all-jobs)
 -  [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/3599)
+-  [Web3相关的远程工作](https://abetterweb3.notion.site)
+-  [web3相关工作](https://cryptocurrencyjobs.co)
+-  [Web3-Recruitment-Website:Web3招聘平台、频道汇总](https://github.com/Web3-Club/Web3-Recruitment-Website)
 
 #### 程序员海外工作/英文面试手册
 - [Programmers-Overseas-Job-Interview-Handbook:程序员海外工作/英文面试手册](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook)
