@@ -101,8 +101,8 @@
 - [Relingo](https://cn.relingo.net/zh/index) 可以将自己不懂生词和难词，自动标示和翻译
 - [Trancy](https://www.trancy.org/zh-cn) 支持YouTube、NetFlix双语字幕、字幕阅读模式、划词翻译
 
-#### 英语口语学习软件：
-
+#### 英语口语学习：
+- [分享Discord一个英语练习小组，在这里可以和全世界各个地方的语言学习者聊天，有三四人以上的房间，也可以两个人进行一对一聊，练习口语很不错](https://discord.gg/english)
 - [Call Annie](https://callannie.ai) 目前支持iOS美区Apple ID下载和web网页版
 - [duolingo](https://www.duolingo.cn/)
 - [Cambly-和母语外教在线练习口语](https://www.cambly.com/english?lang=zh_CN)
