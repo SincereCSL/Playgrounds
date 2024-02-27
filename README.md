@@ -1,5 +1,8 @@
 # SincereCSL 创建的 Playgrounds
 
+### 程序员国内远程工作
+- [remote-jobs-cn:国内远程办公招聘](https://github.com/chenyukang/remote-jobs-cn)
+
 ### 程序员找国外远程工作的资源网站
 -  [remoteok](https://remoteok.com)
 -  [HNHIRING](https://hnhiring.com)
