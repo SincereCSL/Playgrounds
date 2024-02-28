@@ -1,3 +1,18 @@
+## 大语言模型(Large Language Models)
+#### 国外
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+* [LLMs Tools & Research Projects](https://github.com/PetroIvaniuk/llms-tools)
+* [List of Open Sourced Fine-Tuned Large Language Models (LLM)](https://sungkim11.medium.com/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
+#### 国内
+* [最新最全的开源中文大语言模型列表](https://www.wehelpwin.com/article/4110)
+  * [ChatGLM3:是智谱AI和清华大学 KEG 实验室联合发布](https://github.com/THUDM/ChatGLM3)
+  * [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
+  * [Chinese-LLaMA-Alpaca：中文LLaMA&Alpaca大语言模型](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
+  * [BELLE](https://github.com/LianjiaTech/BELLE)
+  * [Panda](https://github.com/dandelionsllm/pandallm)
+  * [Robin (罗宾)](https://github.com/OptimalScale/LMFlow)
+
+
 ## ChatGPT
 [Introducing ChatGPT](https://openai.com/blog/chatgpt)
 [ChatGPT:来源维基百科](https://zh.wikipedia.org/wiki/ChatGPT)
