@@ -187,6 +187,12 @@ Vite相关：
 - [Evan You: Creator of the JavaScript framework Vue.js and the frontend build tool Vite](https://evanyou.me)
     - [Vue.js](https://vuejs.org)
     - [Vite](https://vitejs.dev)
+
+- [子骅](https://zihua.li/about-me)
+    - [ioredis:适用于 Node.js 的强大、注重性能且功能齐全的 Redis 客户端。被Redis收购了](https://github.com/redis/ioredis)
+    - [medis:一款美观、易于使用的 Redis Mac 数据库管理应用程序](https://github.com/luin/medis)
+    - [Medis 到底带来了多少收入？](https://zihua.li/2020/04/open-source-app-earn)
+    
   
 - [Hawstein: AlgoCasts](https://hawstein.com)
     - [AlgoCasts：一个算法教学视频网站](https://algocasts.io)
