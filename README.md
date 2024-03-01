@@ -1,5 +1,8 @@
 # SincereCSL 创建的 Playgrounds
 
+## 前端程序员出海
+* [出海独立开发资源:花果山大圣](https://shengxinjing.cn/blog/tools.html)
+
 ### 程序员国内远程工作
 - [remote-jobs-cn:国内远程办公招聘](https://github.com/chenyukang/remote-jobs-cn)
 
