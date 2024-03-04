@@ -3,7 +3,7 @@
 ### 左耳朵耗子叔公司小伙伴个人成长经历分享整理
 
 - [【非计算机专业的人如何转行程序员】- 宿琛](MegaEaseShare.md)
-
+- 
 ### 自学计算机系统课程资源
 
 - [CS自学指南](https://csdiy.wiki)
@@ -29,6 +29,9 @@
    - [Introduction to Game Theory 博弈论导论](https://online.stanford.edu/courses/mse232-introduction-game-theory)
    - [Introduction to Cryptography 密码学入门](https://online.stanford.edu/courses/cs255-introduction-cryptography)
    - [Compilers 编译器入门课程](https://online.stanford.edu/courses/cs143-compilers)
+
+### 免费的编程中文书籍索引
+- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 
 ### Teach Yourself Computer Science
 
