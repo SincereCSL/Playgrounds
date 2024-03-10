@@ -3,7 +3,8 @@
 ## 前端程序员出海
 * [出海独立开发资源:花果山大圣](https://shengxinjing.cn/blog/tools.html)
 
-### 程序员国内远程工作
+### 程序员国内/远程工作
+- [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/4075)
 - [remote-jobs-cn:国内远程办公招聘](https://github.com/chenyukang/remote-jobs-cn)
 
 ### 程序员找国外远程工作的资源网站
@@ -30,7 +31,6 @@
 -  [github远程文化介绍（全员远程的上市公司）](https://about.gitlab.com/company/all-remote)
 -  [RustJobs](https://rustjobs.dev)
 -  [GitLab 公司远程相关岗位](https://about.gitlab.com/jobs/all-jobs)
--  [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/3599)
 -  [Web3相关的远程工作](https://abetterweb3.notion.site)
 -  [web3相关工作](https://cryptocurrencyjobs.co)
 -  [Web3-Recruitment-Website:Web3招聘平台、频道汇总](https://github.com/Web3-Club/Web3-Recruitment-Website)
