@@ -52,6 +52,11 @@
 
 [OpenAI Sora](https://openai.com/sora)
 
+### Claude (language model)
+
+[Introducing Claude](https://en.wikipedia.org/wiki/Claude_(language_model))
+
+[Claude](https://claude.ai/)
 
 ### Google Bard 正式更名为 Google Gemini
 [Introducing Google Bard](https://en.wikipedia.org/wiki/Gemini_(chatbot))
