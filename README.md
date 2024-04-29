@@ -69,9 +69,11 @@
 - [OGDEN's BASIC ENGLISH](http://ogden.basic-english.org) —— 作者发现牛津字典中2.5w单词中90%的概念可以用850个单词来实现，使用简单的英语进行交流
 - [BBC Learning English](https://www.bbc.co.uk/learningenglish/english/course/eiam)
 - [YouTube BBC Learning English - English In A Minute](https://youtu.be/4Wt7sRxqwyA)
+- [English-level-up-tips：英语进阶指南](https://github.com/byoungd/English-level-up-tips) —— 全面的英语学习指南
+- [Everyone Can Use English：人人都能用英语-李笑来](https://github.com/xiaolai/everyone-can-use-english)
 - [英语自学](https://bewaters.me/limxtop/2021/08/18/English-introduction)
-- [英语进阶指南](https://babyyoung.gitbook.io/english-level-up-tips)
-- [人人都能用英语-李笑来](https://github.com/xiaolai/everyone-can-use-english)
+- [English Note](https://github.com/hzpt-inet-club/english-note) —— 帮助初学者从零开始系统学习英语语法
+- [Chinese Programmer Wrong Pronunciation：中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) —— 帮助中国程序员纠正常见的英语发音错误，特别是与技术术语和编程语言相关的词汇
 - [专为程序员编写的英语学习指南](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 - [学习英语的新闻网站](https://www.vox.com)
 
