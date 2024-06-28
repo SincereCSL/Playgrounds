@@ -19,6 +19,7 @@
 
 - 1、[前端开发相关书籍](https://github.com/MichealWayne/books)
 
+
 #### JavaScript 学习
 
 -[clean-code-javascript 适合前端初学者](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -47,6 +48,14 @@
 - 2、[Hello 算法](https://www.hello-algo.com)
 - 3、[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
 - 4、[前端啃算法](https://github.com/course-dasheng/fe-algorithm)
+
+#### 前端构建工具
+
+- [Webpack](https://webpack.js.org)
+- [Vite](https://vitejs.dev)
+- [Rsbuild](https://rsbuild.dev)
+- [Farm](https://www.farmfe.org)
+- [Mako](https://makojs.dev)
 
 #### 前端工具
 
