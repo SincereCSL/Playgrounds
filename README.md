@@ -4,7 +4,7 @@
 * [出海独立开发资源:花果山大圣](https://shengxinjing.cn/blog/tools.html)
 
 ### 程序员国内/远程工作
-- [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/4075)
+- [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/4743)
 - [remote-jobs-cn:国内远程办公招聘](https://github.com/chenyukang/remote-jobs-cn)
 
 ### 程序员找国外远程工作的资源网站
