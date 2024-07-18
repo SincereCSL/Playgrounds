@@ -20,6 +20,7 @@
 -  [weworkremotely](https://weworkremotely.com)
 -  [Remote Handbook](https://remotecom.notion.site/a3439c6ccaac4d5f8c7515c357345c11?v=8bb7f9be662f45da87ef4ab14a42be37)
 -  [Vue技术栈 相关远程](https://vuejobs.com)
+-  [Three.js 论坛发布的前端相关职位招聘](https://discourse.threejs.org/c/jobs/9/l/latest)
 -  [一亩三分地](https://www.1point3acres.com)
 -  [JavaScript技术栈](https://javascriptjob.xyz)
 -  [Freelancer 号称是:"全球最大的自由职业和众包市场"](https://www.freelancer.cn/job)
