@@ -46,8 +46,10 @@
 
 - 1、[The Algorithms](https://the-algorithms.com/zh_Hans)
 - 2、[Hello 算法](https://www.hello-algo.com)
-- 3、[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
-- 4、[前端啃算法](https://github.com/course-dasheng/fe-algorithm)
+- 3、[CS-Notes](https://github.com/CyC2018/CS-Notes)
+- 4、[ApacheCN 数据结构与算法译文集](https://github.com/apachecn/apachecn-algo-zh)
+- 5、[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
+- 6、[前端啃算法](https://github.com/course-dasheng/fe-algorithm)
 
 #### 前端构建工具
 
@@ -77,6 +79,8 @@
 - [WebGPU 官网](https://www.w3.org/TR/webgpu)
 - [WebGPU MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
 - [3D Force-Directed Graph](https://vasturiano.github.io/3d-force-graph)
+- [释放 WebGPU： 实用教程](https://shi-yan.github.io/webgpuunleashed)
+
 
 ##### WebRTC
 
