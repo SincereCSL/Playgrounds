@@ -73,9 +73,13 @@
 
 [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.2365-6/10000000_662098952474184_2584067087619170692_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=qhK-ahCbkBMAX-qEWmV&_nc_ht=scontent-nrt1-1.xx&oh=00_AfDKue2tZZUVNnzD5Nwv_k-GswWsZeS0yUHpgtEaSdJGVA&oe=64BE66FF)
 
-### Andrej Karpathy(安德烈·卡帕斯)开设的人工智能大语言模型课程：LLM101n: Let's build a Storyteller 
+### 大模型相关课程
 
-[LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n)
+[ndrej Karpathy(安德烈·卡帕斯)开设的人工智能大语言模型课程:LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n)
+
+[Youtub上LLM 课程：Large Language Models](https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-)
+
+[Hamel Husain LLM/大模型/深度学习](https://hamel.dev/blog/posts/course)
 
 ### 吴恩达 Prompt engineering 关于 LLM 提示工程的课程
 
