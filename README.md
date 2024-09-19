@@ -3,11 +3,17 @@
 ## 前端程序员出海
 * [出海独立开发资源:花果山大圣](https://shengxinjing.cn/blog/tools.html)
 
-### 程序员国内/远程工作
+### 程序员国内求职/远程工作
+- [Boss直聘](https://www.zhipin.com)
+- [V2EX 酷工作板块](https://v2ex.com/?tab=jobs)
+- [脉脉系统推荐]()
 - [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/5090)
+- [掘金沸点 - 内推招聘广场](https://juejin.cn/pins/myclub/6819970850532360206)
 - [remote-jobs-cn:国内远程办公招聘](https://github.com/chenyukang/remote-jobs-cn)
 
 ### 程序员找国外远程工作的资源网站
+-  [LinkedIn](https://www.linkedin.com)
+-  [Twitter / X](https://x.com/jobs)
 -  [remoteok](https://remoteok.com)
 -  [HNHIRING](https://hnhiring.com)
 -  [frontendremotejobs](https://frontendremotejobs.com)
