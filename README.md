@@ -1,7 +1,14 @@
 # SincereCSL 创建的 Playgrounds
 
+## 远程工作的相关资料
+* [远程工作的相关资料，包括工作保障、财务税务问题、团队管理问题等](https://github.com/greatghoul/remote-working?tab=readme-ov-file)
+
+## 国内远程的公司和招聘
+* [国内远程的公司和招聘](https://github.com/greatghoul/remote-working/blob/master/teams/README.md)
+
 ## 前端程序员出海
 * [出海独立开发资源:花果山大圣](https://shengxinjing.cn/blog/tools.html)
+
 
 ### 程序员国内求职/远程工作
 - [Boss直聘](https://www.zhipin.com)
@@ -186,7 +193,10 @@ Vite相关：
 
 
 ### 工具
-
+-  cursor101 是一个AI代码编辑器Cursor的教程网站
+- [cursor101](https://cursor101.com)
+- [cursor 教学](https://cursor.directory)
+- 
 - 如何阅读Medium:
 - [Medium Parser Chrome 插件](https://chromewebstore.google.com/detail/medium-parser/egejbknaophaadmhijkepokfchkbnelc)
 - [https://readmedium.com](https://readmedium.com)

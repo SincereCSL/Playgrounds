@@ -75,6 +75,8 @@
 
 ### 大模型相关课程
 
+[CS294/194-196 Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24)
+
 [ndrej Karpathy(安德烈·卡帕斯)开设的人工智能大语言模型课程:LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n)
 
 [Youtub上LLM 课程：Large Language Models](https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-)
