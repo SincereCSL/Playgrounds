@@ -1,4 +1,22 @@
-# SincereCSL 创建的 Playgrounds
+#  SincereCSL 2025 Flag
+- 啃下算法：《算法4》 
+- Vue.js/React.js 源码学习
+- 个人博客每月至少写一篇技术文章
+- 求职一家更加好的公司
+- 学会一门后端语言
+
+2025 英语学习
+
+- 《新概念英语》
+- 《走遍美国》
+
+2025 读书
+- 争取读24本书
+
+2025 心愿
+- 祝自己和身边家人平安健康
+
+# **SincereCSL 创建的** Playgrounds
 
 ## 远程工作的相关资料
 * [远程工作的相关资料，包括工作保障、财务税务问题、团队管理问题等](https://github.com/greatghoul/remote-working?tab=readme-ov-file)
