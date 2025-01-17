@@ -1,5 +1,7 @@
 ## 大语言模型(Large Language Models)
 #### 国外
+* [Google 团队的一份 Agents 白皮书英文版](https://drive.google.com/file/d/1oEjiRCTbd54aSdB_eEe3UShxLBWK9xkt/view?pli=1)
+* [Google 团队的一份 Agents 白皮书中文版](https://arthurchiao.art/blog/ai-agent-white-paper-zh)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [LLMs Tools & Research Projects](https://github.com/PetroIvaniuk/llms-tools)
 * [List of Open Sourced Fine-Tuned Large Language Models (LLM)](https://sungkim11.medium.com/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
