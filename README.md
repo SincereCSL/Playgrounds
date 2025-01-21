@@ -1,22 +1,3 @@
-#  SincereCSL 2025 Flag
-- 啃下算法：《算法4》 
-- Vue.js/React.js 源码学习
-- 个人博客每月至少输出一篇文章
-- 求职一家更加好的公司
-- 学会一门后端语言
-
-2025 英语学习
-
-- 《新概念英语》
-- 《走遍美国》
--  参加一次托福/雅思考试
-
-2025 读书
-- 争取读24本书
-
-2025 心愿
-- 祝自己和身边家人平安健康
-
 # **SincereCSL 创建的** Playgrounds
 
 ## 远程工作的相关资料
@@ -28,7 +9,6 @@
 ## 前端程序员出海
 * [出海独立开发资源:花果山大圣](https://shengxinjing.cn/blog/tools.html)
 
-
 ### 程序员国内求职/远程工作
 - [Boss直聘](https://www.zhipin.com)
 - [V2EX 酷工作板块](https://v2ex.com/?tab=jobs)
@@ -38,35 +18,35 @@
 - [remote-jobs-cn:国内远程办公招聘](https://github.com/chenyukang/remote-jobs-cn)
 
 ### 程序员找国外远程工作的资源网站
--  [LinkedIn](https://www.linkedin.com)
--  [Twitter / X](https://x.com/jobs)
--  [remoteok](https://remoteok.com)
--  [HNHIRING](https://hnhiring.com)
--  [frontendremotejobs](https://frontendremotejobs.com)
--  [flexjobs](https://www.flexjobs.com)
--  [remote](https://remote.co)
--  [电鸭社区](https://eleduck.com)
--  [高端remote工作](https://www.toptal.com)
--  [Remotive](https://remotive.com)
--  [日本IT相关岗位](https://japan-dev.com)
--  [weworkremotely](https://weworkremotely.com)
--  [Remote Handbook](https://remotecom.notion.site/a3439c6ccaac4d5f8c7515c357345c11?v=8bb7f9be662f45da87ef4ab14a42be37)
--  [Vue技术栈 相关远程](https://vuejobs.com)
--  [Three.js 论坛发布的前端相关职位招聘](https://discourse.threejs.org/c/jobs/9/l/latest)
--  [一亩三分地](https://www.1point3acres.com)
--  [JavaScript技术栈](https://javascriptjob.xyz)
--  [Freelancer 号称是:"全球最大的自由职业和众包市场"](https://www.freelancer.cn/job)
--  [vercel的谁在招人讨论区](https://github.com/vercel/next.js/discussions/45533)
--  [欧洲的远程工作](https://justjoin.it)
--  [创业公司的远程机会](https://wellfound.com/jobs)
--  [润拉拉:移民找工作、远程工作](https://runlala.com)
--  [个人外包项目](https://www.upwork.com)
--  [github远程文化介绍（全员远程的上市公司）](https://about.gitlab.com/company/all-remote)
--  [RustJobs](https://rustjobs.dev)
--  [GitLab 公司远程相关岗位](https://about.gitlab.com/jobs/all-jobs)
--  [Web3相关的远程工作](https://abetterweb3.notion.site)
--  [web3相关工作](https://cryptocurrencyjobs.co)
--  [Web3-Recruitment-Website:Web3招聘平台、频道汇总](https://github.com/Web3-Club/Web3-Recruitment-Website)
+-  [LinkedIn](https://www.linkedin.com) —— 全球最大的职业社交平台，对找国外工作尤其重要。建议完善英文简历，积极与目标公司的招聘者建立联系
+-  [Twitter / X](https://x.com/jobs) —— Twitter推出了求职招聘的功能，有许多科技公司和创业公司会在上边发布职位信息，你也可以关注感兴趣的公司和招聘者，及时获取工作机会
+-  [remoteok](https://remoteok.com) —— 最大的远程工作平台之一，每天更新大量远程职位，包括软件开发、设计、产品等岗位，可以按技能、薪资范围筛选
+-  [HNHIRING](https://hnhiring.com) —— 汇集了 Hacker News 上"Who is hiring?"帖子中的所有工作机会，主要面向技术岗位，很多是知名科技公司的职位
+-  [frontendremotejobs](https://frontendremotejobs.com) —— 专注于前端开发远程工作机会的求职网站，包括 React、Vue、Angular 等各类前端技术栈的职位
+-  [flexjobs](https://www.flexjobs.com) —— 付费的远程工作平台，提供经过筛选的高质量远程职位，覆盖多个行业，包括技术、设计等领域
+-  [remote](https://remote.co) —— 提供全球远程工作机会，除了技术岗位外还包括市场、设计等多个领域，同时提供远程工作相关的资源和建议
+-  [电鸭社区](https://eleduck.com) —— 国内知名的远程工作社区，有大量海外远程职位信息，同时也是远程工作者交流经验的平台
+-  [高端remote工作](https://www.toptal.com) —— 面向顶尖自由职业者的平台，提供高薪远程工作机会，但加入平台需要通过严格的技术测试
+-  [Remotive](https://remotive.com) —— 专注于远程工作的求职平台，提供详细的公司介绍和职位描述，支持按技能、地区、公司规模等多维度筛选
+-  [日本IT相关岗位](https://japan-dev.com) —— 专注于日本技术职位的求职网站，提供远程和现场工作机会，特别适合想进入日本IT行业的开发者
+-  [weworkremotely](https://weworkremotely.com) —— 老牌远程工作平台，每月有数百万访问量，提供质量较高的远程工作机会，特别是技术类岗位
+-  [Remote Handbook](https://remotecom.notion.site/a3439c6ccaac4d5f8c7515c357345c11?v=8bb7f9be662f45da87ef4ab14a42be37) —— Remote.com 公司的远程工作手册，详细介绍了远程工作的最佳实践、工具和方法论
+-  [Vue技术栈 相关远程](https://vuejobs.com) —— 专注于 Vue.js 技术栈的工作机会，包括远程和现场职位，是 Vue 开发者找工作的重要平台
+-  [Three.js 论坛发布的前端相关职位招聘](https://discourse.threejs.org/c/jobs/9/l/latest) —— Three.js 官方社区的招聘板块，主要面向 3D 图形和 WebGL 开发者
+-  [一亩三分地](https://www.1point3acres.com) —— 北美最大的华人求职交流社区，提供大量海外工作机会和求职经验分享
+-  [JavaScript技术栈](https://javascriptjob.xyz) —— 专注于 JavaScript 生态系统的工作机会，包括前端、Node.js、全栈开发等职位
+-  [Freelancer 号称是:"全球最大的自由职业和众包市场"](https://www.freelancer.cn/job) —— 全球性的自由职业平台，提供各类项目外包机会，支持按小时或项目计费
+-  [vercel的谁在招人讨论区](https://github.com/vercel/next.js/discussions/45533) —— Next.js 官方社区的招聘讨论区，主要面向 React 和 Next.js 开发者
+-  [欧洲的远程工作](https://justjoin.it) —— 专注于欧洲市场的远程工作机会，特别是波兰、德国等地区的技术职位
+-  [创业公司的远程机会](https://wellfound.com/jobs) —— 前身是 AngelList Talent，汇集了大量创业公司的工作机会，包括远程职位
+-  [润拉拉:移民找工作、远程工作](https://runlala.com) —— 面向中国开发者的海外工作信息平台，提供移民、远程工作等相关资讯
+-  [个人外包项目](https://www.upwork.com) —— 全球最大的自由职业平台之一，提供各类远程项目机会，适合寻找短期或长期外包项目
+-  [github远程文化介绍（全员远程的上市公司）](https://about.gitlab.com/company/all-remote) —— GitLab 公司的远程工作文化手册，详细介绍了如何建立和维护远程团队
+-  [RustJobs](https://rustjobs.dev) —— 专注于 Rust 语言相关的工作机会，包括远程职位，是 Rust 开发者的重要求职平台
+-  [GitLab 公司远程相关岗位](https://about.gitlab.com/jobs/all-jobs) —— GitLab 公司的招聘页面，作为全远程公司的标杆，提供各类远程工作机会
+-  [Web3相关的远程工作](https://abetterweb3.notion.site) —— 汇集 Web3、区块链、加密货币等领域的远程工作机会
+-  [web3相关工作](https://cryptocurrencyjobs.co) —— 专注于加密货币和区块链领域的工作机会，包括开发、产品、运营等各类职位
+-  [Web3-Recruitment-Website:Web3招聘平台、频道汇总](https://github.com/Web3-Club/Web3-Recruitment-Website) —— Web3 领域招聘资源的综合汇总，包括各类招聘平台、社区和渠道
 
 #### 程序员海外工作/英文面试手册
 - [Programmers-Overseas-Job-Interview-Handbook:程序员海外工作/英文面试手册](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook)
@@ -172,7 +152,7 @@ Evan You演讲相关视频：
     - [VueConf Toronto 2018:Vue 3.0 Updates - Evan You](https://www.youtube.com/watch?v=XkOMOeEAFQI&list=PLRxahvbQSa_vF8P7sWyN-7aac0YPKvlWP)
     - [VueConf Toronto 2019:Design Principles of Vue 3.0 by Evan You](https://www.youtube.com/watch?v=WLpLYhnGqPA&list=PLRxahvbQSa_uDvlWBFAsaFdVx1DyXkZ6S)
     - [VueConf Toronto 2020:Vite and VitePress - Evan You](https://www.youtube.com/watch?v=xXrhg26VCSc&list=PLRxahvbQSa_tF0RDVm3e9F3VbiH15zdbX)
-    - [VueConf Toronto 2021:The New Vue by Evan You](https://www.youtube.com/watch?v=2KBHvaAWJOA&list=PLRxahvbQSa_v9nKUI_UOiRPG7IOnq7b7Y)
+    - [VueConf Toronto 2021:The New Vue by Evan You](https://www.youtube.com/watch?v=2KBHvaAWJOA&list=PLJNLwTPak6dhvOmKMC80lpYIo463BhC4K)
     - [VueConf Toronto 2022:What's next for Vue? Evan You explains...](https://www.youtube.com/watch?v=3QPp_DlcZpM&list=PLJNLwTPak6dhvOmKMC80lpYIo463BhC4K)
     - [VueConf Toronto 2023:Vue and Vite Status Update - Evan You](https://www.youtube.com/watch?v=Hz_zCR28oKE&list=PLRxahvbQSa_sriWdMsK2SOAjn9ZHCmQy7)
 - [Vue Mastery](https://www.youtube.com/@VueMastery)
