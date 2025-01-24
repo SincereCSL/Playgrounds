@@ -9,6 +9,10 @@
 ## 前端程序员出海
 * [出海独立开发资源:花果山大圣](https://shengxinjing.cn/blog/tools.html)
 
+## 程序员工资地图
+* [美国程序员工资地图](https://www.levels.fyi/heatmap)
+* [欧洲程序员工资地图](https://www.levels.fyi/heatmap/europe)
+
 ### 程序员国内求职/远程工作
 - [Boss直聘](https://www.zhipin.com)
 - [V2EX 酷工作板块](https://v2ex.com/?tab=jobs)
@@ -18,6 +22,7 @@
 - [remote-jobs-cn:国内远程办公招聘](https://github.com/chenyukang/remote-jobs-cn)
 
 ### 程序员找国外远程工作的资源网站
+
 -  [LinkedIn](https://www.linkedin.com) —— 全球最大的职业社交平台，对找国外工作尤其重要。建议完善英文简历，积极与目标公司的招聘者建立联系
 -  [Twitter / X](https://x.com/jobs) —— Twitter推出了求职招聘的功能，有许多科技公司和创业公司会在上边发布职位信息，你也可以关注感兴趣的公司和招聘者，及时获取工作机会
 -  [remoteok](https://remoteok.com) —— 最大的远程工作平台之一，每天更新大量远程职位，包括软件开发、设计、产品等岗位，可以按技能、薪资范围筛选
