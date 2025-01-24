@@ -13,7 +13,7 @@
 - [Boss直聘](https://www.zhipin.com)
 - [V2EX 酷工作板块](https://v2ex.com/?tab=jobs)
 - [脉脉系统推荐]()
-- [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/5253)
+- [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/5830)
 - [掘金沸点 - 内推招聘广场](https://juejin.cn/pins/myclub/6819970850532360206)
 - [remote-jobs-cn:国内远程办公招聘](https://github.com/chenyukang/remote-jobs-cn)
 
