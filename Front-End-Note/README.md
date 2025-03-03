@@ -6,14 +6,33 @@
 
 欢迎大家提交对本仓库的改进建议~
 
-### 前端学习
+### 前端播客推荐
 
+- 1、[Web Worker-前端程序员都爱听](https://www.xiaoyuzhoufm.com/podcast/613753ef23c82a9a1ccfdf35)
+- 2、[硬地骇客](https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87)
+- 3、[浪说播客](https://www.xiaoyuzhoufm.com/podcast/6717d7bc0d2f24f289165dff)
+
+- 其他：[前端開發資源推薦 (三) Podcast 節目篇](https://medium.com/@Kelly_CHI/best-frontend-podcast-recommendations-874ee1b167cc)
+- 1、[PodRocket](https://podrocket.logrocket.com)
+- 2、[Syntax](https://syntax.fm)
+- 3、[Front-End Fire](https://www.buzzsprout.com/2226499)
+- 4、[HTML all the things](https://www.htmlallthethings.com)
+- 5、[JS Party](https://changelog.com/jsparty)
+- 6、[General Musings](https://www.youtube.com/@GeneralMusings/about)
+- 7、[Frontend First](https://frontendfirst.fm)
+- 8、[Modern Web](https://podcasts.apple.com/us/podcast/modern-web/id1084236187)
+- 9、[JavaScript Jabber](https://topenddevs.com/podcasts/javascript-jabber)
+- 10、[Front-end Happy Hour](https://www.frontendhappyhour.com)
+- 11、[前端轻松聊](https://bento.me/fetalkpodcast)
+
+### 前端学习
+- 1、[前端開發資源推薦 (一) Youtube 頻道篇](https://medium.com/@Kelly_CHI/recommended-frontend-youtube-channel-4c148eddbdb)
 - 1、[前端知识结构](https://github.com/JacksonTian/fks)
-- 1、[Web 界面开发指南](https://interfaces.rauno.me/)
-- 2、[真全栈，全免费项目，学完直接上一个台阶](https://github.com/KieSun/all-of-frontend) 
-- 3、[我的职业是前端工程师](https://github.com/phodal/fe) 
-- 4、[前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
-- 5、[Web Development for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners)
+- 2、[Web 界面开发指南](https://interfaces.rauno.me/)
+- 3、[真全栈，全免费项目，学完直接上一个台阶](https://github.com/KieSun/all-of-frontend) 
+- 4、[我的职业是前端工程师](https://github.com/phodal/fe) 
+- 5、[前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+- 6、[Web Development for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners)
 
 ### 前端相关书籍
 
