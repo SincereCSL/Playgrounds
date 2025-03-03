@@ -138,9 +138,8 @@
 - [Computer Science Study](Computer-Science/README.md)
 
 ### 前端相关知识
-
-- [SincereCSL Interview](Front-End-Note/Interview.md)
 - [前端知识笔记](Front-End-Note/README.md)
+- [SincereCSL Interview](Front-End-Note/面试资源整理/Interview.md)
 - [技术文章摘抄](https://learn.lianglianglee.com)
 
 #### 通过 YouTube 学习 React、Next.js、Vue.js、Vite 练习英语  

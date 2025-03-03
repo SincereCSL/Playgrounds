@@ -6,7 +6,7 @@
 
 欢迎大家提交对本仓库的改进建议~
 
-## 前端学习
+### 前端学习
 
 - 1、[前端知识结构](https://github.com/JacksonTian/fks)
 - 1、[Web 界面开发指南](https://interfaces.rauno.me/)
@@ -15,21 +15,21 @@
 - 4、[前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 - 5、[Web Development for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners)
 
-## 前端相关书籍
+### 前端相关书籍
 
 - 1、[前端开发相关书籍](https://github.com/MichealWayne/books)
 
-#### JavaScript 学习
+### JavaScript 学习
 
 -[clean-code-javascript 适合前端初学者](https://github.com/ryanmcdermott/clean-code-javascript)
--[clean-code-javascript 适合前端初学者](https://github.com/ryanmcdermott/clean-code-javascript)
 
-#### TypeScript 学习
+
+### TypeScript 学习
 
 - [TypeScript官网](https://www.typescriptlang.org)
 - [TypeScript 教程 ——阮一峰](https://wangdoc.com/typescript)
 
-#### CSS 相关
+### CSS 相关
 
 - 很酷炫的 css 动画 js/css实现
 - 1、[Animate.css](https://animate.style)
@@ -39,10 +39,7 @@
 - 5、[Velocity.js](http://velocityjs.org)
 - 6、[Anime.js](https://animejs.com/)
 
-
-
-#### 前端算法
-
+###  前端算法
 - 1、[The Algorithms](https://the-algorithms.com/zh_Hans)
 - 2、[Hello 算法](https://www.hello-algo.com)
 - 3、[CS-Notes](https://github.com/CyC2018/CS-Notes)
@@ -50,7 +47,7 @@
 - 5、[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
 - 6、[前端啃算法](https://github.com/course-dasheng/fe-algorithm)
 
-#### 前端构建工具
+### 前端构建工具
 
 - [Webpack](https://webpack.js.org)
 - [Vite](https://vitejs.dev)
@@ -58,11 +55,29 @@
 - [Farm](https://www.farmfe.org)
 - [Mako](https://makojs.dev)
 
-#### 前端工具
+### 前端工程化
+#### 前端全链路性能优化
+- 1、[前端性能优化](前端全链路性能优化/README.md)
+
+
+### 前端工具
 
 - 1、[大前端工具集](https://github.com/nieweidong/fetool)
 
-#### 扩展学习 热门技术
+###  扩展学习 热门技术
+
+#####  ECharts图表网站记录
+[PPChart](https://ppchart.com)
+
+[Make A Pie 可视化社区](https://www.makeapie.cn/echarts)
+
+[isqqw](https://www.isqqw.com)
+
+[MCChart](https://echarts.zhangmuchen.top/#/index)
+
+[Powered by Discuz!](http://192.144.199.210/forum-2-1.html)
+
+[分享你我](http://chart.majh.top)
 
 ##### WebAssembly
 
