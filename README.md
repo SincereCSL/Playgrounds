@@ -84,6 +84,7 @@
    - [Educated:你当像鸟飞往你的山 蓝思值为：870](https://hub.lexile.com/find-a-book/book-details/9780399590504) 
    - [Elon Musk:硅谷钢铁侠 蓝思值为：1200](https://hub.lexile.com/find-a-book/book-details/9780062301239) 
 
+- [Learning English ](https://github.com/knowledgefxg/learning-english) —— 精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。
 - [OGDEN's BASIC ENGLISH](http://ogden.basic-english.org) —— 作者发现牛津字典中2.5w单词中90%的概念可以用850个单词来实现，使用简单的英语进行交流
 - [BBC Learning English](https://www.bbc.co.uk/learningenglish/english/course/eiam)
 - [YouTube BBC Learning English - English In A Minute](https://youtu.be/4Wt7sRxqwyA)
