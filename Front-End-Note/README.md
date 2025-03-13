@@ -26,7 +26,7 @@
 - 11、[前端轻松聊](https://bento.me/fetalkpodcast)
 
 ### 前端学习
-- 1、[前端開發資源推薦 (一) Youtube 頻道篇](https://medium.com/@Kelly_CHI/recommended-frontend-youtube-channel-4c148eddbdb)
+- 1、[前端开发资源推荐 (一) Youtube 頻道篇](https://medium.com/@Kelly_CHI/recommended-frontend-youtube-channel-4c148eddbdb)
 - 1、[前端知识结构](https://github.com/JacksonTian/fks)
 - 2、[Web 界面开发指南](https://interfaces.rauno.me/)
 - 3、[真全栈，全免费项目，学完直接上一个台阶](https://github.com/KieSun/all-of-frontend) 
