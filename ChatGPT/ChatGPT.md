@@ -1,3 +1,39 @@
+## 通用 AI 大模型 & AI智能体
+### 国外
+#### 通用 AI 大模型
+* [ChatGPT](https://chatgpt.com)
+* [Google Gemini](https://gemini.google.com)
+* [Grok](https://grok.com)
+* [Claude](https://claude.ai)
+* [Meta (Llama)](https://www.meta.ai)
+#### AI智能体 & 视觉 & 多模态 AI
+* [Poe](https://poe.com)
+* [GitHub Copilot](https://github.com/copilot)
+* [Copilot](https://copilot.microsoft.com/chats/CiRZwfGW3wtEgNE9UMeLT)
+* [字节 Coze](https://www.coze.com)
+* [DALL·E](https://openai.com/dall-e-2)
+* [Midjourney](https://www.midjourney.com)
+* [Runway](https://runwayml.com)
+* [Canva](https://www.canva.com)
+* [Stable Diffusion (Stability AI)](https://stability.ai)
+
+### 国内
+#### 通用 AI 大模型
+* [DeepSeek](https://chat.deepseek.com)
+* [阿里通义千问](https://tongyi.aliyun.com)
+* [KimiGPT](https://kimi.moonshot.cn)
+* [百度文心一言](https://yiyan.baidu.com)
+* [字节豆包](https://www.doubao.com/chat)
+* [腾讯混元](https://hunyuan.tencent.com)
+* [智谱清言](https://chatglm.cn)
+* [讯飞星火](https://xinghuo.xfyun.cn/desk)
+* [知乎直答](https://zhida.zhihu.com)
+#### AI智能体 & 视觉 & 多模态 AI
+* [Monica](https://monica.im)
+* [通义万相](https://tongyi.aliyun.com/wanxiang)
+* [文心一格](https://yige.baidu.com)
+
+
 ## 大语言模型(Large Language Models)
 #### 国外
 * [Google 团队的一份 Agents 白皮书英文版](https://drive.google.com/file/d/1oEjiRCTbd54aSdB_eEe3UShxLBWK9xkt/view?pli=1)
