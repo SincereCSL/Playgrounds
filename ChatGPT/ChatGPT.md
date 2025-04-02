@@ -55,9 +55,8 @@
 [Introducing ChatGPT](https://openai.com/blog/chatgpt)
 [ChatGPT:来源维基百科](https://zh.wikipedia.org/wiki/ChatGPT)
 
-## 关于仓库
-
-记录自己学习、使用ChatGPT、LLM大型语言模型的一些有学习视频、关于ChatGPT的一些开源资料库，如果有错误，欢迎小伙伴提出改进建议~
+## Open AI课程
+[OpenAI Academy](https://academy.openai.com/home/content)
 
 ### Open AI 发表的ChatGPT 的论文
 
@@ -156,6 +155,7 @@
 
 
 
+## 关于仓库
 
-
+记录自己学习、使用ChatGPT、LLM大型语言模型的一些有学习视频、关于ChatGPT的一些开源资料库，如果有错误，欢迎小伙伴提出改进建议~
 
