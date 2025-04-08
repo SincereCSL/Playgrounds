@@ -51,7 +51,9 @@
 ### CSS 相关
 
 - 很酷炫的 css 动画 js/css实现
-- 1、[Animate.css](https://animate.style)
+- 0、[GSAP](https://gsap.com) The GreenSock Animation Platform (GSAP)是一个功能十分强大的动画平台，可以帮助我们实现大部分的动画需求，构建高性能的、适用于所有主要浏览器的高性能动画；GSAP非常的灵活，可以在任何框架上处理页面能够所有通过js改变的元素，不仅可以对div的css属性进行动画，还是SVG、React、Vue、WebGL，甚至和Threejs一起使用。
+- 0、[Lottie](https://lottiefiles.com) Airbnb 开源的一套跨平台的完整的动画效果解决方案
+- 1、[Animate.css](https://animate.style) 
 - 2、[Magic.css](https://www.minimamente.com/project/magic)
 - 3、[React Spring](https://www.react-spring.dev/)
 - 4、[Greensock](https://gsap.com)
@@ -123,44 +125,41 @@
 -[imooc WebRTC源码级深度解析，进阶大厂高级音视频开发者](https://coding.imooc.com/class/532.html)
 
 ## 前端面试
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
-- 1、[Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 
-- 2、[web-interview](https://github.com/febobo/web-interview) Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
+- [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
-- 3、[CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) 内容包括js、网络、浏览器相关、性能优化、安全性、框架、git、数据结构、算法
+- [web-interview](https://github.com/febobo/web-interview) Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 
-- 4、[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道大厂前端面试题，一年后再回头，会感谢曾经努力的自己！
+- [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) 内容包括js、网络、浏览器相关、性能优化、安全性、框架、git、数据结构、算法
 
-- 5、[Front-end-Developer-Questions](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions) 前端开发面试题
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道大厂前端面试题，一年后再回头，会感谢曾经努力的自己！
 
-- 6、[fe-interview](https://github.com/haizlin/fe-interview) 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+- [Front-end-Developer-Questions](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions) 前端开发面试题
 
-- 7、[Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 欢迎拍砖，一起刷题，涨姿势，get新技能，找到好工作。
+- [fe-interview](https://github.com/haizlin/fe-interview) 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
 
-- 8、[FE-Interview](https://github.com/lgwebdream/FE-Interview) 前端面试每日一题
+- [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 欢迎拍砖，一起刷题，涨姿势，get新技能，找到好工作。
 
-- 9、[FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) 涵盖 JavaScript、Vue、React、Node、小程序、Flutter、Deno、HTML、CSS 等
+- [FE-Interview](https://github.com/lgwebdream/FE-Interview) 前端面试每日一题
 
-- 10、[daily](https://github.com/pwstrick/daily) HTML5、ES6、React、Webpack等内容，还包括通用的网络和软技能
+- [FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) 涵盖 JavaScript、Vue、React、Node、小程序、Flutter、Deno、HTML、CSS 
 
+- [daily](https://github.com/pwstrick/daily) HTML5、ES6、React、Webpack等内容，还包括通用的网络和软技能
 
-- 11、[Daily-Question](https://github.com/shfshanyue/Daily-Question) 日问
+- [Daily-Question](https://github.com/shfshanyue/Daily-Question) 日问
 
+- [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) 前端复习笔记
 
-- 12、[Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) 前端复习笔记
+- [FE-Interview-Questions](https://github.com/poetries/FE-Interview-Questions)
 
+- [前端瓶子君](https://github.com/sisterAn/blog) 前端瓶子君的博客
 
-- 13、[FE-Interview-Questions](https://github.com/poetries/FE-Interview-Questions)
+- [Blog](https://github.com/YvetteLau/Blog) 侧重于原生JS、 React、ReactNative和Webpack等入门与底层原理分
 
-
-- 14、[前端瓶子君](https://github.com/sisterAn/blog) 前端瓶子君的博客
-
-
-- 15、[Blog](https://github.com/YvetteLau/Blog) 侧重于原生JS、 React、ReactNative和Webpack等入门与底层原理分析
-
-
-- 16、[Blog](https://github.com/ljianshu/Blog)
+- [Blog](https://github.com/ljianshu/Blog)
 
 
 ![](./images/lovely.jpg)
