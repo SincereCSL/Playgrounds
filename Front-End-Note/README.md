@@ -11,8 +11,9 @@
 - 1、[Web Worker-前端程序员都爱听](https://www.xiaoyuzhoufm.com/podcast/613753ef23c82a9a1ccfdf35)
 - 2、[硬地骇客](https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87)
 - 3、[浪说播客](https://www.xiaoyuzhoufm.com/podcast/6717d7bc0d2f24f289165dff)
+- 4、[代码之外 Beyond code](https://www.xiaoyuzhoufm.com/podcast/6194d973c14c9a0db82de1ea)
 
-- 其他：[前端開發資源推薦 (三) Podcast 節目篇](https://medium.com/@Kelly_CHI/best-frontend-podcast-recommendations-874ee1b167cc)
+- 其他：[前端开发资源推荐(三)Podcast 节目篇](https://medium.com/@Kelly_CHI/best-frontend-podcast-recommendations-874ee1b167cc)
 - 1、[PodRocket](https://podrocket.logrocket.com)
 - 2、[Syntax](https://syntax.fm)
 - 3、[Front-End Fire](https://www.buzzsprout.com/2226499)
