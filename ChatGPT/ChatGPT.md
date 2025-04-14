@@ -36,6 +36,7 @@
 
 ## 大语言模型(Large Language Models)
 #### 国外
+* [Google 官方提示工程 (Prompt Engineering)白皮书 —— 宝玉老师翻译](https://baoyu.io/blog/google-prompt-engineering-whitepaper)
 * [Google 团队的一份 Agents 白皮书英文版](https://drive.google.com/file/d/1oEjiRCTbd54aSdB_eEe3UShxLBWK9xkt/view?pli=1)
 * [Google 团队的一份 Agents 白皮书中文版](https://arthurchiao.art/blog/ai-agent-white-paper-zh)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
