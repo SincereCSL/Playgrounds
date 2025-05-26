@@ -110,13 +110,20 @@
 
 - [WebGL 官网](https://get.webgl.org)
 - [WebGL 理论基础](https://webglfundamentals.org/webgl/lessons/zh_cn)
-- [Three.js 官网](https://threejs.org)
-- [Three.js Tutorial](https://www.tutorialspoint.com/threejs)
 - [WebGPU 官网](https://www.w3.org/TR/webgpu)
 - [WebGPU MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
 - [3D Force-Directed Graph](https://vasturiano.github.io/3d-force-graph)
 - [释放 WebGPU： 实用教程](https://shi-yan.github.io/webgpuunleashed)
 
+- Three.js
+  - [Three.js 官网](https://threejs.org)
+  - [Three.js Tutorial](https://www.tutorialspoint.com/threejs)
+  
+- Three.js Youtube 频道
+
+  - [Yuri Artiukh](https://www.youtube.com/@akella_)：Three.js 和 WebGL 可视化、创意编程演示，内容深入浅出，适合进阶学习。
+  - [Wawa Sensei](https://www.youtube.com/@WawaSensei)：专注于 Three.js、WebGL 及前端动画开发，涵盖实用案例和项目实战。
+  - [Bruno Simon](https://www.youtube.com/@BrunoSimon)：Three.js 官方课程作者，内容包括 Three.js 教程、项目实战和创意作品展示。
 
 ##### WebRTC
 
