@@ -6,6 +6,7 @@
 * [Grok](https://grok.com)
 * [Claude](https://claude.ai)
 * [Meta (Llama)](https://www.meta.ai)
+* [perplexity ai](https://www.perplexity.ai)
 #### AI智能体 & 视觉 & 多模态 AI
 * [Poe](https://poe.com)
 * [GitHub Copilot](https://github.com/copilot)
@@ -32,6 +33,7 @@
 * [Monica](https://monica.im)
 * [通义万相](https://tongyi.aliyun.com/wanxiang)
 * [文心一格](https://yige.baidu.com)
+* [扣子空间](https://space.coze.cn)
 
 
 ## 大语言模型(Large Language Models)
