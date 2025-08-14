@@ -7,6 +7,7 @@
 ### 自学计算机系统课程资源
 
 - [CS自学指南](https://csdiy.wiki)
+- [Teach Yourself Computer Science：自学计算机科学](https://teachyourselfcs.com)
 - [CS自救指北](https://survivesjtu.gitbook.io/survivesjtumanual/fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei)
 - [哈佛大学免费的在线课程](https://threadreaderapp.com/thread/1675036558041415681.html)
 - [MIT的 Introduction to Deep Learning](http://introtodeeplearning.com/)
