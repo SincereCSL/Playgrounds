@@ -16,7 +16,7 @@
 ### 程序员国内求职/远程工作
 - [Boss直聘](https://www.zhipin.com)
 - [V2EX 酷工作板块](https://v2ex.com/?tab=jobs)
-- [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/7408)
+- [阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/7832)
 - [掘金沸点 - 内推招聘广场](https://juejin.cn/pins/myclub/6819970850532360206)
 - [remote-jobs-cn:国内远程办公招聘](https://github.com/chenyukang/remote-jobs-cn)
 
