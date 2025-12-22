@@ -21,7 +21,8 @@
 - [remote-jobs-cn:国内远程办公招聘](https://github.com/chenyukang/remote-jobs-cn)
 
 ### 程序员找国外远程工作的资源网站
-
+-  [Github Remote-friendly companies](https://github.com/remoteintech/remote-jobs) —— 一份科技领域及周边行业中支持半远程至全远程办公的公司清单
+-  [Github Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) —— 精选优质远程工作和资源列表
 -  [LinkedIn](https://www.linkedin.com) —— 全球最大的职业社交平台，对找国外工作尤其重要。建议完善英文简历，积极与目标公司的招聘者建立联系
 -  [Twitter / X](https://x.com/jobs) —— Twitter推出了求职招聘的功能，有许多科技公司和创业公司会在上边发布职位信息，你也可以关注感兴趣的公司和招聘者，及时获取工作机会
 -  [remoteok](https://remoteok.com) —— 最大的远程工作平台之一，每天更新大量远程职位，包括软件开发、设计、产品等岗位，可以按技能、薪资范围筛选
