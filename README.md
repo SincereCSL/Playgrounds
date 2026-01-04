@@ -154,13 +154,14 @@ Vue.js相关：
 
 Evan You演讲相关视频：
 - [VueConfToronto](https://www.youtube.com/@VueConfToronto)
-    - [Vue, Vite and the future of JS toolings - Evan You](https://www.youtube.com/watch?v=NAdZwjk_tqI&list=PLRxahvbQSa_tj8vNJOB6J1g1IUbwFubED)
-    - [VueConf Toronto 2023:Vue and Vite Status Update - Evan You](https://www.youtube.com/watch?v=Hz_zCR28oKE&list=PLRxahvbQSa_sriWdMsK2SOAjn9ZHCmQy7)
-    - [VueConf Toronto 2022:What's next for Vue? EvanYou explains...](https://www.youtube.com/watch?v=3QPp_DlcZpM&list=PLJNLwTPak6dhvOmKMC80lpYIo463BhC4K)
-    - [VueConf Toronto 2021:The New Vue by Evan You](https://www.youtube.com/watch?v=2KBHvaAWJOA&list=PLJNLwTPak6dhvOmKMC80lpYIo463BhC4K)
-    - [VueConf Toronto 2020:Vite and VitePress - Evan You](https://www.youtube.com/watch?v=xXrhg26VCSc&list=PLRxahvbQSa_tF0RDVm3e9F3VbiH15zdbX)
-    - [VueConf Toronto 2019:Design Principles of Vue 3.0 by Evan You](https://www.youtube.com/watch?v=WLpLYhnGqPA&list=PLRxahvbQSa_uDvlWBFAsaFdVx1DyXkZ6S)
-    - [VueConf Toronto 2018:Vue 3.0 Updates - Evan You](https://www.youtube.com/watch?v=XkOMOeEAFQI&list=PLRxahvbQSa_vF8P7sWyN-7aac0YPKvlWP)
+- [Vue, Vite and the future of JS toolings - Evan You](https://www.youtube.com/watch?v=NAdZwjk_tqI&list=PLRxahvbQSa_tj8vNJOB6J1g1IUbwFubED)
+- [VueConf Toronto 2024:Vue, Vite and the future of JS toolings - Evan You](https://www.youtube.com/watch?v=NAdZwjk_tqI&list=PLRxahvbQSa_tj8vNJOB6J1g1IUbwFubED)
+- [VueConf Toronto 2023:Vue and Vite Status Update - Evan You](https://www.youtube.com/watch?v=Hz_zCR28oKE&list=PLRxahvbQSa_sriWdMsK2SOAjn9ZHCmQy7)
+- [VueConf Toronto 2022:What's next for Vue? EvanYou explains...](https://www.youtube.com/watch?v=3QPp_DlcZpM&list=PLJNLwTPak6dhvOmKMC80lpYIo463BhC4K)
+- [VueConf Toronto 2021:The New Vue by Evan You](https://www.youtube.com/watch?v=2KBHvaAWJOA&list=PLJNLwTPak6dhvOmKMC80lpYIo463BhC4K)
+- [VueConf Toronto 2020:Vite and VitePress - Evan You](https://www.youtube.com/watch?v=xXrhg26VCSc&list=PLRxahvbQSa_tF0RDVm3e9F3VbiH15zdbX)
+- [VueConf Toronto 2019:Design Principles of Vue 3.0 by Evan You](https://www.youtube.com/watch?v=WLpLYhnGqPA&list=PLRxahvbQSa_uDvlWBFAsaFdVx1DyXkZ6S)
+- [VueConf Toronto 2018:Vue 3.0 Updates - Evan You](https://www.youtube.com/watch?v=XkOMOeEAFQI&list=PLRxahvbQSa_vF8P7sWyN-7aac0YPKvlWP)
 
 - [Vue Mastery](https://www.youtube.com/@VueMastery)
 
