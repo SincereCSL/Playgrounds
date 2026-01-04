@@ -197,6 +197,7 @@ Vite相关：
 
 ### 写作知识
 - [Technical Writing Courses: Google 技术文档的课程](https://developers.google.com/tech-writing)
+- [Refactoring English —— Effective Writing for Software Developers](https://refactoringenglish.com) 这是由Michael Lynch 写的一本关于技术写作的书籍，专门为软件开发人员设计，帮助他们提升写作技能，使技术文档更清晰、简洁和易于理解。本书还没有写完，暂时可以可以看到部分章节内容。
 
 
 ### 工具
