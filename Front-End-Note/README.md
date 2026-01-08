@@ -28,6 +28,7 @@
 
 ### 前端学习
 - 1、[前端开发资源推荐 (一) Youtube 頻道篇](https://medium.com/@Kelly_CHI/recommended-frontend-youtube-channel-4c148eddbdb)
+- 2、[StackExchange What should every programmer know about web development? 关于Web开发，什么是所有程序员需要知道的？](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
 - 1、[前端知识结构](https://github.com/JacksonTian/fks)
 - 2、[Web 界面开发指南](https://interfaces.rauno.me/)
 - 3、[真全栈，全免费项目，学完直接上一个台阶](https://github.com/KieSun/all-of-frontend) 
