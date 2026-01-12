@@ -170,6 +170,7 @@ Vite相关：
 
 ### 前端开源项目明星榜
 
+- [2025 javascript 前端开源项目明星榜](https://risingstars.js.org/2025/en)
 - [2024 javascript 前端开源项目明星榜](https://risingstars.js.org/2024/en)
 - [2023 javascript 前端开源项目明星榜](https://risingstars.js.org/2023/en)
 - [2022 javascript 前端开源项目明星榜](https://risingstars.js.org/2022/en)
