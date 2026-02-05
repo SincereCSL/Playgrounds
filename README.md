@@ -181,6 +181,21 @@ Vite相关：
 - [2017 javascript 前端开源项目明星榜](https://risingstars.js.org/2017/en)
 - [2016 javascript 前端开源项目明星榜](https://risingstars.js.org/2016/en)
 
+### State of JavaScript 调查报告
+- [The State of JS 2025](https://2025.stateofjs.com/en-US/libraries)
+- [The State of JS 2024](https://2024.stateofjs.com/en-US)
+- [The State of JS 2023](https://2023.stateofjs.com/en-US)
+- [The State of JS 2022](https://2022.stateofjs.com/en-US)
+- [The State of JS 2021](https://2021.stateofjs.com/en-US)
+- [The State of JS 2020](https://2020.stateofjs.com/en-US)
+- [The State of JS 2019](https://2019.stateofjs.com)
+- [The State of JS 2018](https://2018.stateofjs.com)
+- [The State of JS 2017](https://2017.stateofjs.com)
+- [The State of JS 2016](https://2016.stateofjs.com)
+
+### State of AI 调查报告
+- [State of AI](https://stateofai.dev/en-US)
+
 ### Database 相关知识
 
 - [Database学习](Database/Database.md)
