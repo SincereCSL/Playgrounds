@@ -115,6 +115,10 @@
 
 ### 大模型相关课程
 
+[Introduction to Modern AI](https://modernaicourse.org) 卡内基梅隆大学（CMU）的现代 AI 入门课（2026）
+
+[CS146S: The Modern Software Developer](https://themodernsoftware.dev) 斯坦福大学 《Vibe Coding 课程》
+
 [CS294/194-196 Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24)
 
 [ndrej Karpathy(安德烈·卡帕斯)开设的人工智能大语言模型课程:LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n)
@@ -122,6 +126,7 @@
 [Youtub上LLM 课程：Large Language Models](https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-)
 
 [Hamel Husain LLM/大模型/深度学习](https://hamel.dev/blog/posts/course)
+
 
 ### 吴恩达 Prompt engineering 关于 LLM 提示工程的课程
 
